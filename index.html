@@ -110,7 +110,7 @@
                     if (window.Prism && window.Prism.highlightAll) {
                         window.Prism.highlightAll();
                     }
-                    import('/docsify-wavesurfer-plugin.js').then(module => {
+                    import('docsify-wavesurfer-plugin.js').then(module => {
                          module.initWaveSurfer();
                     }).catch(err => console.error('Failed to load WaveSurfer plugin', err));
                 });
