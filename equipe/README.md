@@ -2,9 +2,8 @@
 
 <!-- Présentation des rôles et responsabilités de chacun des membres de l'équipe -->
 
-* [![Prénom Nom]( https://placehold.co/600x400?text=membre+v)](prenom_nom/)
-* [![Prénom Nom]( https://placehold.co/600x400?text=membre+v)](prenom_nom/)
-* [![Prénom Nom]( https://placehold.co/600x400?text=membre+v)](prenom_nom/)
-* [![Prénom Nom]( https://placehold.co/600x400?text=membre+v)](prenom_nom/)
-* [![Prénom Nom]( https://placehold.co/600x400?text=membre+v)](prenom_nom/)
+* [![Amira, Tounekti]( amira_tounekti/photo_profesionel.png)](amira_tounekti/)
+* [![Kristy, Moussally]( kristy_moussally/photo_tete.png)](kristy_moussally/)
+* [![Matis, Ghariani]( matis_ghariani/matis.JPG)](matis_ghariani/)
+* [![Jad, Saloumi]( jad_saloumi/jad-saloumi.JPG)](jad_saloumi/)
 
