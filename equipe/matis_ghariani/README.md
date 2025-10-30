@@ -1,6 +1,6 @@
 # Matis Ghariani
 
-![Matis, Ghariani]( matis.JPG)
+![]( matis.jpg)
 
 
  <!--

@@ -1,6 +1,6 @@
 # Amira Tounekti
 
-![Amira, Tounekti](photo_profesionel.png )
+![](amira.jpg )
 
 
  <!--

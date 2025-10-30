@@ -1,6 +1,6 @@
 # Jad Saloumi
 
-![Jad, Saloumi]( jad-saloumi.JPG)
+![]( jad.jpg)
 
 
  <!--

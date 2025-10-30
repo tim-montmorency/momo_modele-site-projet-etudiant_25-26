@@ -1,6 +1,6 @@
 # Kristy Moussally
 
-![Kristy, Moussally]( photo_tete.png)
+![]( kristy.jpg)
 
 
  <!--
