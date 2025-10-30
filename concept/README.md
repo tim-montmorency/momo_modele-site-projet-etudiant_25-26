@@ -87,6 +87,7 @@ Ambiance sonore et lumineuse
 Inspirations relatives à la scénarisation de la lumière et du son, qui seront des éléments interactifs clés dans l’expérience utilisateur.
 -->
 
+[Son demonstrative.mp3](./demonstrative.mp3)
 
 ### Inspirations interactives
 
