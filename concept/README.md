@@ -107,8 +107,8 @@ Inspirations relatives à la scénarisation de la lumière et du son, qui seront
 
 #### Références
 
-* [Dark Ambient Soundscape Music Par DELOSound](https://pixabay.com/fr/music/ambiant-dark-ambient-soundscape-music-427632/)
-* [Dark Ambient Soundscape Music Par Tunetank](https://pixabay.com/fr/music/myst%C3%A8re-dark-ambient-soundscape-music-409350/)
+ [Dark Ambient Soundscape Music Par DELOSound](dark-ambient-soundscape-music-409350.mp3)
+[Dark Ambient Soundscape Music Par Tunetank](dark-ambient-soundscape-music-409350.mp3)
 * [son_3]()
 * [son_4]()
 
