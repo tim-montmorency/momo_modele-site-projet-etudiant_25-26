@@ -71,7 +71,7 @@ Le terme « social » désigne ce qui concerne la vie en société, c’est-à-d
  L’adjectif peut aussi qualifier des animaux ou des plantes vivant en communauté selon des règles strictes, comme les insectes sociaux (fourmis, abeilles) ou certaines espèces végétales formant des colonies denses.
 -->
 
-La réalisation de cette expérience musicale et lumineuse crée des liens entre les interacteurs.
+La réalisation de cette expérience musicale et lumineuse crée des liens sociaux entre les interacteurs. Ces liens englobent l’harmonie et le travail d’équipe, où la communication et l’interaction entre les visiteurs sont encouragées au sein du projet.
 
 ## Inspirations
 
