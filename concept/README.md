@@ -32,21 +32,25 @@ Qu'est-ce que fait l'interacteur?
 un résumé du parcours de l'interacteur du début à la fin de son expérience - qu'est-ce qu'il fait, qu'est-ce qu'il manipule, etc
 -->
 
-L’interacteur entre dans la pièce. Une bougie s’allume à l’écran, accompagnée d’une note musicale. Lorsque le visiteur s’approche, la flamme à l’écran s’agite davantage et la note change d’intensité.
+L’interacteur entre dans la pièce. Une bougie s’allume à l’écran, accompagnée d’une note musicale synbthétique. Les visiteurs sont invités à prendre une chandelle (objet) sur la table. La flame de l'écran suit la position en hauteur de l'objet. Avec l'aide de la lumière de flame, les visiteurs perçoit des ombres qui domine l'espace (l'écran). Quand les interacteur secouent l'objet, les flame s'agittent rapidement et modifie les sons émis. 
+les interacteurs ont le pouvoir de modifier l’intensité de la flamme ainsi que celle de la note.
 
 ### L'espace
 
 <!--
 description de l'espace réel et virtuel du projet et comment l'espace réel est transposé, transorté ou prolongé dans le virtuel et inversement
 -->
+L'espace a notre disposition que nous permettra les projets voisins dans le grand studio.
+L’espace réel est liminal afin d’inviter les interacteurs à se déplacer dans la pièce.
+L'espace virtuel est couverte des ombres représentés par des formes abstraits / étrangées.
+Un écran projette des flammes de bougies qui reflètent la présence et la position (à la hauteur) de l'objet que les interacteurs tiennent dans la main.
 
-L’espace réel est vaste afin d’inviter les interacteurs à se déplacer dans la pièce. Un écran projette des flammes de bougies qui reflètent la présence et la position des interacteurs.
 
 ### La progression
 
 <!--  sur le temps et la progression -->
 
-La flamme dépend de la présence de l’interacteur. Lorsqu’une personne quitte la pièce, elle s’éteint et sa note musicale se dissout. En ce qui concerne la progression, les interacteurs ont le pouvoir de modifier l’intensité de la flamme ainsi que celle de la note.
+La flamme dépend de la présence de l’interacteur. Lorsqu’une personne quitte la pièce, elle s’éteint et sa note musicale se dissout. En ce qui concerne la progression, L'interacteur est invité de prendre une chandelle (l'objet) sur la table, la flame dans l'écran suit la position de l'objet et montre un ombre (le danger). Plus il y a de flames dans l'écran (personnes dans la pièces), les ombres se font chasser hors de l'espace virtuel.
 
 ### L'aspect collectif
 
@@ -59,7 +63,7 @@ Un collectif désigne l'ensemble de personnes ou d'entités qui s'unissent de ma
  Ce groupe, souvent considéré comme une entité à vocation communautaire, fonctionne sous le pilotage de ses membres et repose sur une volonté partagée de développer des solidarités.
 -->
 
-Les interacteurs ont le pouvoir de créer ensemble une expérience orchestrale et lumineuse.
+Les interacteurs ont le pouvoir de créer ensemble une expérience orchestrale et lumineuse. La présence des ombres encourage les interacteurs de se réuinir pour les chasser à l'aide des bougies.
 
 ### L'aspect social
 
@@ -89,6 +93,7 @@ La réalisation de cette expérience musicale et lumineuse crée des liens socia
 - [Pexels](https://pixabay.com/fr/users/pexels-2286921/)
 - [StockSnap](https://pixabay.com/fr/users/stocksnap-894430/)
 - [Quayola](https://quayola.com/)
+
 <!--
 Images inspirantes
 Représentations visuelles de l'ambiance recherchée, que ce soit à travers des photographies, des illustrations, ou des œuvres existantes.
