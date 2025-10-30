@@ -66,10 +66,18 @@ Le terme « social » désigne ce qui concerne la vie en société, c’est-à-d
 
 ## Inspirations
 
-### Inspirations visuelles et sonores
-
+### Inspirations visuelles
 <!-- Inclure le moodboard avec référenes pour chacune des sources-->
 
+![moodboard](inspiration_visuelle.jpg)
+
+#### Crédits
+
+* [jrydertr](https://pixabay.com/fr/users/jrydertr-13047018/)
+* [Ri_Ya](https://pixabay.com/fr/users/ri_ya-12911237/)
+* [Pexels](https://pixabay.com/fr/users/pexels-2286921/)
+* [StockSnap](https://pixabay.com/fr/users/stocksnap-894430/)
+* [Quayola](https://quayola.com/)
 <!--
 Images inspirantes
 Représentations visuelles de l'ambiance recherchée, que ce soit à travers des photographies, des illustrations, ou des œuvres existantes.
@@ -94,6 +102,8 @@ Inspirations relatives à la scénarisation de la lumière et du son, qui seront
 <!-- Inclure des liens et une ligne sur pourquoi -->
 
 [![Lien vers le projet](edria.jpg)](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
+
+
 
 ## Scénarimage
 
