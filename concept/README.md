@@ -13,12 +13,12 @@
 </iframe>
 
 <!-- Méthode 2, plug legit -->
-<!-- 
+<!--
 [![Description de la vidéo](http://img.youtube.com/vi/ABWCq8j8qys/0.jpg)](http://www.youtube.com/watch?v=ABWCq8j8qys)
 -->
 
 <!-- Méthode 3 (vidéo local) -->
-<!-- 
+<!--
  ![Description de la vidéo](/media/ipsum_020.mp4)
 -->
 
@@ -26,7 +26,7 @@
 
 ### Le parcours de l'interacteur
 
-<!-- 
+<!--
 Comportement de l’interacteur
 Qu'est-ce que fait l'interacteur?
 un résumé du parcours de l'interacteur du début à la fin de son expérience - qu'est-ce qu'il fait, qu'est-ce qu'il manipule, etc
@@ -36,8 +36,8 @@ L’interacteur entre dans la pièce. Une bougie s’allume à l’écran, accom
 
 ### L'espace
 
-<!-- 
-description de l'espace réel et virtuel du projet et comment l'espace réel est transposé, transorté ou prolongé dans le virtuel et inversement 
+<!--
+description de l'espace réel et virtuel du projet et comment l'espace réel est transposé, transorté ou prolongé dans le virtuel et inversement
 -->
 
 L’espace réel est vaste afin d’inviter les interacteurs à se déplacer dans la pièce. Un écran projette des flammes de bougies qui reflètent la présence et la position des interacteurs.
@@ -45,13 +45,14 @@ L’espace réel est vaste afin d’inviter les interacteurs à se déplacer dan
 ### La progression
 
 <!--  sur le temps et la progression -->
+
 La flamme dépend de la présence de l’interacteur. Lorsqu’une personne quitte la pièce, elle s’éteint et sa note musicale se dissout. En ce qui concerne la progression, les interacteurs ont le pouvoir de modifier l’intensité de la flamme ainsi que celle de la note.
 
 ### L'aspect collectif
 
-<!-- 
-comment votre idée de projet correspond au thème du COLLECTIF 
-Plus il y a de personnes qui peuvent interagir simultanément est un critère important ! 
+<!--
+comment votre idée de projet correspond au thème du COLLECTIF
+Plus il y a de personnes qui peuvent interagir simultanément est un critère important !
 
 Un collectif désigne l'ensemble de personnes ou d'entités qui s'unissent de manière concertée pour poursuivre un objectif commun, en coopérant et en collaborant pour atteindre des buts qui seraient difficiles à réaliser individuellement.
  Il peut s'agir d'une réunion informelle ou contractuelle, temporaire ou durable, constituée autour d'une cause, d'une action ou d'un projet, qu'il soit artistique, politique, professionnel, moral ou cultuel.
@@ -62,8 +63,8 @@ Les interacteurs ont le pouvoir de créer ensemble une expérience orchestrale e
 
 ### L'aspect social
 
-<!-- 
-comment votre idée de projet correspond au thème du SOCIAL 
+<!--
+comment votre idée de projet correspond au thème du SOCIAL
 
 Le terme « social » désigne ce qui concerne la vie en société, c’est-à-dire les relations entre les individus au sein d’un groupe organisé, ainsi que les structures, normes et institutions qui en découlent.
  Il peut s’appliquer à des aspects variés, comme la vie sociale, les groupes sociaux, les classes sociales, les rapports de production, ou encore les politiques visant à améliorer les conditions de vie des individus.
@@ -76,17 +77,18 @@ La réalisation de cette expérience musicale et lumineuse crée des liens socia
 ## Inspirations
 
 ### Inspirations visuelles
+
 <!-- Inclure le moodboard avec référenes pour chacune des sources-->
 
 ![moodboard](inspiration_visuelle.jpg)
 
 #### Crédits
 
-* [jrydertr](https://pixabay.com/fr/users/jrydertr-13047018/)
-* [Ri_Ya](https://pixabay.com/fr/users/ri_ya-12911237/)
-* [Pexels](https://pixabay.com/fr/users/pexels-2286921/)
-* [StockSnap](https://pixabay.com/fr/users/stocksnap-894430/)
-* [Quayola](https://quayola.com/)
+- [jrydertr](https://pixabay.com/fr/users/jrydertr-13047018/)
+- [Ri_Ya](https://pixabay.com/fr/users/ri_ya-12911237/)
+- [Pexels](https://pixabay.com/fr/users/pexels-2286921/)
+- [StockSnap](https://pixabay.com/fr/users/stocksnap-894430/)
+- [Quayola](https://quayola.com/)
 <!--
 Images inspirantes
 Représentations visuelles de l'ambiance recherchée, que ce soit à travers des photographies, des illustrations, ou des œuvres existantes.
@@ -103,23 +105,21 @@ Textures et matériaux
 Ambiance sonore et lumineuse
 Inspirations relatives à la scénarisation de la lumière et du son, qui seront des éléments interactifs clés dans l’expérience utilisateur.
 -->
+
 ### Inspirations sonores
 
 #### Références
 
- [Dark Ambient Soundscape Music Par DELOSound](dark-ambient-soundscape-music-427632.mp3)
-[Dark Ambient Soundscape Music Par Tunetank](dark-ambient-soundscape-music-409350.mp3)
+[Calm Horizons Par Universfield](calm-horizons-351492.mp3)
+[Ambient Background Soundscape Music Par Universfield](ambient-background-351471.mp3)
+[Ambient Background Soundscape Music Par Lilliben](ambient-background-351471.mp3)
 [Music-box Par RoneyFriday](music-box-336285.mp3)
-[son_4]()
-
 
 ### Inspirations interactives
 
 <!-- Inclure des liens et une ligne sur pourquoi -->
 
 [![Lien vers le projet](edria.jpg)](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
-
-
 
 ## Scénarimage
 
