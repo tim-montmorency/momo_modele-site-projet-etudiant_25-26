@@ -1,6 +1,6 @@
-# Prénom Nom
+# Kristy Moussally
 
-![]( https://placehold.co/600x400?text=membre+v)
+![Kristy, Moussally]( https://placehold.co/600x400?text=membre+v)
 
 
  <!--
