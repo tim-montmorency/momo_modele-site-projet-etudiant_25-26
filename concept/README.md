@@ -32,15 +32,20 @@ Qu'est-ce que fait l'interacteur?
 un résumé du parcours de l'interacteur du début à la fin de son expérience - qu'est-ce qu'il fait, qu'est-ce qu'il manipule, etc
 -->
 
+L’interacteur entre dans la pièce. Une bougie s’allume à l’écran, accompagnée d’une note musicale. Lorsque le visiteur s’approche, la flamme à l’écran s’agite davantage et la note change d’intensité.
+
 ### L'espace
 
 <!-- 
 description de l'espace réel et virtuel du projet et comment l'espace réel est transposé, transorté ou prolongé dans le virtuel et inversement 
 -->
 
+L’espace réel est vaste afin d’inviter les interacteurs à se déplacer dans la pièce. Un écran projette des flammes de bougies qui reflètent la présence et la position des interacteurs.
+
 ### La progression
 
 <!--  sur le temps et la progression -->
+La flamme dépend de la présence de l’interacteur. Lorsqu’une personne quitte la pièce, elle s’éteint et sa note musicale se dissout. En ce qui concerne la progression, les interacteurs ont le pouvoir de modifier l’intensité de la flamme ainsi que celle de la note.
 
 ### L'aspect collectif
 
@@ -53,6 +58,8 @@ Un collectif désigne l'ensemble de personnes ou d'entités qui s'unissent de ma
  Ce groupe, souvent considéré comme une entité à vocation communautaire, fonctionne sous le pilotage de ses membres et repose sur une volonté partagée de développer des solidarités.
 -->
 
+Les interacteurs ont le pouvoir de créer ensemble une expérience orchestrale et lumineuse.
+
 ### L'aspect social
 
 <!-- 
@@ -63,6 +70,8 @@ Le terme « social » désigne ce qui concerne la vie en société, c’est-à-d
  En sciences sociales, le social englobe l’étude des phénomènes collectifs, des interactions humaines, des normes sociales et des dynamiques de pouvoir au sein de la société.
  L’adjectif peut aussi qualifier des animaux ou des plantes vivant en communauté selon des règles strictes, comme les insectes sociaux (fourmis, abeilles) ou certaines espèces végétales formant des colonies denses.
 -->
+
+La réalisation de cette expérience musicale et lumineuse crée des liens entre les interacteurs.
 
 ## Inspirations
 
@@ -95,6 +104,13 @@ Ambiance sonore et lumineuse
 Inspirations relatives à la scénarisation de la lumière et du son, qui seront des éléments interactifs clés dans l’expérience utilisateur.
 -->
 ### Inspirations sonores
+
+#### Références
+
+* [ambiance_1]()
+* [ambiance_2]()
+* [son_3]()
+* [son_4]()
 
 
 ### Inspirations interactives
