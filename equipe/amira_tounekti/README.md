@@ -1,6 +1,6 @@
 # Amira Tounekti
 
-![Amira, Tounekti]( C:\Users\2266066\Documents\CodeVisualStudio\momo_modele-site-projet-etudiant_25-26\img\photo_profesionel.png)
+![Amira, Tounekti](photo_profesionel.png )
 
 
  <!--

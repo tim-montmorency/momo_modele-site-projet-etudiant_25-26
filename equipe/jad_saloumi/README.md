@@ -1,6 +1,6 @@
 # Jad Saloumi
 
-![Jad, Saloumi]( https://placehold.co/600x400?text=membre+v)
+![Jad, Saloumi]( jad-saloumi.JPG)
 
 
  <!--
