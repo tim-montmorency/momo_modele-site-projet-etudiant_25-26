@@ -64,7 +64,7 @@ Un collectif désigne l'ensemble de personnes ou d'entités qui s'unissent de ma
  Ce groupe, souvent considéré comme une entité à vocation communautaire, fonctionne sous le pilotage de ses membres et repose sur une volonté partagée de développer des solidarités.
 -->
 
-Les ombres sont des dangers qui persistent durant tous le long de l'expérience. Ils hantent et intimident quand ils se font éloigner par une personne. Donc, les interacteurs sont encouragés de se réunir et d'utliser les bougies (objets) pour chasser ces forces pertubants ensemble.
+Les ombres sont des dangers qui persistent tout au long de l’expérience. Elles hantent et intimident lorsqu’une personne tente de les éloigner. Ainsi, les participants sont encouragés à se rassembler et à utiliser les bougies (objets) pour chasser ensemble ces forces perturbatrices.
 
 Bref, la présence des ombres encourage les interacteurs de se réuinir pour les chasser à l'aide des bougies physiques.
 
