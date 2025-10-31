@@ -40,9 +40,11 @@ L’interacteur entre dans la pièce. Une flamme de bougie s’allume à l’éc
 description de l'espace réel et virtuel du projet et comment l'espace réel est transposé, transorté ou prolongé dans le virtuel et inversement
 -->
 
-L'espace a notre disposition que nous permettra les projets voisins dans le grand studio.
-L’espace réel est liminal afin d’inviter les interacteurs à se déplacer dans la pièce.
-L'espace virtuel est couverte des ombres représentés par des formes abstraits / étrangées.
+Notre installation est située dans le grand studio de notre programme Techniques. Le projet partagera l’espace avec d’autres installations voisines. Nous réserverons donc une zone du studio suffisamment grande pour accueillir de 5 à 6 personnes à la fois, afin qu’elles puissent participer à l’expérience.
+
+L’espace réel est majoritairement liminal, afin d’inviter les interacteurs à se déplacer dans la pièce. Une petite table sera disposée avec de fausses bougies (objets interactifs) destinées à être utiliser pour l’expérience.
+
+L'espace virtuel (l'écran) est couverte des ombres représentés par des formes abstraits / étrangées.
 Un écran projette des flammes de bougies qui reflètent la présence et la position (à la hauteur) de l'objet que les interacteurs tiennent dans la main.
 
 ### La progression
