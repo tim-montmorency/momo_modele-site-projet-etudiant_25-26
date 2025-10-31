@@ -32,19 +32,18 @@ Qu'est-ce que fait l'interacteur?
 un résumé du parcours de l'interacteur du début à la fin de son expérience - qu'est-ce qu'il fait, qu'est-ce qu'il manipule, etc
 -->
 
-L’interacteur entre dans la pièce. Une bougie s’allume à l’écran, accompagnée d’une note musicale synbthétique. Les visiteurs sont invités à prendre une chandelle (objet) sur la table. La flame de l'écran suit la position en hauteur de l'objet. Avec l'aide de la lumière de flame, les visiteurs perçoit des ombres qui domine l'espace (l'écran). Quand les interacteur secouent l'objet, les flame s'agittent rapidement et modifie les sons émis. 
-les interacteurs ont le pouvoir de modifier l’intensité de la flamme ainsi que celle de la note.
+L’interacteur entre dans la pièce. Une flamme de bougie s’allume à l’écran, accompagnée d’une note musicale synthétique. Plus il y a de visiteurs, plus il y a des flammes et de variations sonores. Les visiteurs sont invités à prendre une chandelle (objet physique) posée sur une table. La flamme à l’écran suit la position de l’objet. Les interacteurs ont le pouvoir de modifier l’intensité de la flamme ainsi que celle de la note musicale qui l’accompagne. Dès que l’interacteur quitte la pièce, sa flamme s’éteint et sa note se dissout.
 
 ### L'espace
 
 <!--
 description de l'espace réel et virtuel du projet et comment l'espace réel est transposé, transorté ou prolongé dans le virtuel et inversement
 -->
+
 L'espace a notre disposition que nous permettra les projets voisins dans le grand studio.
 L’espace réel est liminal afin d’inviter les interacteurs à se déplacer dans la pièce.
 L'espace virtuel est couverte des ombres représentés par des formes abstraits / étrangées.
 Un écran projette des flammes de bougies qui reflètent la présence et la position (à la hauteur) de l'objet que les interacteurs tiennent dans la main.
-
 
 ### La progression
 
