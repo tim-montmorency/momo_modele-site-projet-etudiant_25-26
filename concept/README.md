@@ -127,7 +127,7 @@ Inspirations relatives à la scénarisation de la lumière et du son, qui seront
 
 <!-- Inclure des liens et une ligne sur pourquoi -->
 
-[![Lien vers le projet](edria.jpg)](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
+[![Lien vers le projet Opal par GentilHomme](opal.png)](https://gentilhomme.com/fr/projets/opal/)
 
 ## Scénarimage
 
