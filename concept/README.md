@@ -87,15 +87,15 @@ En chassant les ombres ensemble, les interacteurs créent des liens entre eux à
 
 <!-- Inclure le moodboard avec référenes pour chacune des sources-->
 
-![moodboard](inspiration_visuelle.jpg)
+![Palette de couleur](palette_couleur.png)
 
-#### Crédits
+#### L'ambiance de la salle et l'espace virtuel
 
-- [jrydertr](https://pixabay.com/fr/users/jrydertr-13047018/)
-- [Ri_Ya](https://pixabay.com/fr/users/ri_ya-12911237/)
-- [Pexels](https://pixabay.com/fr/users/pexels-2286921/)
-- [StockSnap](https://pixabay.com/fr/users/stocksnap-894430/)
-- [Quayola](https://quayola.com/)
+![Bougie mouvement Par Nothing Ahead](bougie_mouvement.png)
+
+![Bougie ambiance / lueur Par  Fandy Much](bougie_ambiance.png)
+
+![Bougie lueur montre ombre dans le noir Par Merve Baydar](bougie_lueur_ombre.png)
 
 <!--
 Images inspirantes
@@ -126,6 +126,10 @@ Inspirations relatives à la scénarisation de la lumière et du son, qui seront
 ### Inspirations interactives
 
 <!-- Inclure des liens et une ligne sur pourquoi -->
+
+![Interaction du projet Opal par GentilHomme](opal_interaction.png)
+
+L'utilisation d'objets physiques pour manipuler le monde virtuel.
 
 [![Lien vers le projet Opal par GentilHomme](opal.png)](https://gentilhomme.com/fr/projets/opal/)
 
