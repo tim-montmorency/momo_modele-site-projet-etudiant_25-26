@@ -91,11 +91,11 @@ En chassant les ombres ensemble, les interacteurs créent des liens entre eux à
 
 #### L'ambiance de la salle et l'espace virtuel
 
-![Bougie mouvement Par Nothing Ahead](bougie_mouvement.png)
+![Mouvement de bougie Par Nothing Ahead](bougie_mouvement.png)
 
 ![Bougie ambiance / lueur Par  Fandy Much](bougie_ambiance.png)
 
-![Bougie lueur montre ombre dans le noir Par Merve Baydar](bougie_lueur_ombre.png)
+![Bougie lueur montre l'ombre dans le noir Par Merve Baydar](bougie_lueur_ombre.png)
 
 <!--
 Images inspirantes
@@ -120,8 +120,7 @@ Inspirations relatives à la scénarisation de la lumière et du son, qui seront
 
 [Calm Horizons Par Universfield](calm-horizons-351492.mp3)
 [Ambient Background Soundscape Music Par Universfield](ambient-background-351471.mp3)
-[Ambient Background Soundscape Music Par Lilliben](ambient-background-351471.mp3)
-[Music-box Par RoneyFriday](music-box-336285.mp3)
+[Calm Ambient soundscape for focus Par Lilliben](calm-ambient-soundscape-for-focus-365156.mp3)
 
 ### Inspirations interactives
 
@@ -129,7 +128,7 @@ Inspirations relatives à la scénarisation de la lumière et du son, qui seront
 
 ![Interaction du projet Opal par GentilHomme](opal_interaction.png)
 
-L'utilisation d'objets physiques pour manipuler le monde virtuel.
+L'utilisation d'objets physiques pour manipuler le monde virtuel. (Enrichir l'expérience)
 
 [![Lien vers le projet Opal par GentilHomme](opal.png)](https://gentilhomme.com/fr/projets/opal/)
 
