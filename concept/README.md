@@ -51,7 +51,9 @@ Un écran projette des flammes de bougies qui reflètent la présence et la posi
 
 <!--  sur le temps et la progression -->
 
-La flamme dépend de la présence de l’interacteur. Lorsqu’une personne quitte la pièce, elle s’éteint et sa note musicale se dissout. En ce qui concerne la progression, L'interacteur est invité de prendre une chandelle (l'objet) sur la table, la flame dans l'écran suit la position de l'objet et montre un ombre (le danger). Plus il y a de flames dans l'écran (personnes dans la pièces), les ombres se font chasser hors de l'espace virtuel.
+Les interacteurs ont le pouvoir de manipuler le visuel (dans l'écran) à l'aide des "boujies" (objets physiques) pour enrichir leur expérience.
+
+En ce qui concerne la progression, l’interacteur est invité à prendre une chandelle (l’objet) sur la table. La flamme s'allume à l’écran suit la position de l’objet physique et révèle la présence de plusieurs ombres représentant des forces négatives (oppresseurs). Les visiteurs peuvent agiter la chandelle pour modifier l’apparence de leur flamme ainsi que sa note musicale. Ces modifications influencent à la fois l’intensité de la lumière et la hauteur (le pitch) des sons émis par ces flammes. Un maximum de six visiteurs peuvent participer simultanément à l’expérience : six flammes apparaissent alors à l’écran. Ensemble, ces flammes unissent leurs forces pour chasser les ombres hors de l’écran.
 
 ### L'aspect collectif
 
