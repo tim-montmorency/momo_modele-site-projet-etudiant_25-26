@@ -9,8 +9,8 @@ https://tim-montmorency.com/582523-gestion/#/contenus/3_planification/
 
 | Action | Condition de déclenchement | Effet visuel | Effet sonore | Effet interactif |
 | :------------------- | :----------: | :----------: | :----------: |----------: |
-| Entrer | Le visiteur rentre dans la zone de détection | Une chandelle sur la table s’illumine, et une flamme de la même couleur apparaît à sa hauteur | Une note de piano est entendu à l’allumage de la chandelle | Activation du systeme de detection de mouvement |
-| Prendre chandelle  | L’interacteur dépladé la chandelle devant le projecteur dans l'axe(y) | Une flamme apparait dans le projecteur a la meme position que la chandelle | Lorsque la flamme apparait un bruit d'etincelle est declenché | L'installation reconnait l'existance de la flamme et passe à la scène 2 |
+| Entrer | Le visiteur rentre dans la zone de détection | Une chandelle sur la table s’illumine | Une note de piano est entendu à l’allumage de la chandelle | Activation du systeme de detection de mouvement |
+| Prendre chandelle  | L’interacteur dépladé la chandelle devant le projecteur dans l'axe(y) | Une flamme de la même couleur de border que la chandelle apparait a la meme position (x,y) que la chandelle | Lorsque la flamme apparait un bruit d'etincelle est declenché | L'installation reconnait l'existance de la flamme et passe à la scène 2 |
 
 #### Scène 2 :
 
