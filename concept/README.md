@@ -155,3 +155,23 @@ Comme pour le scénario narratif, le scénarimage doit montrer la progression de
 Retour visuel et sensoriel
 Le scénarimage doit inclure des annotations ou des visuels montrant les réponses visuelles, sonores ou tactiles à chaque interaction. Cela peut inclure des changements d’éclairage, des transitions vidéo, ou des effets sonores qui réagissent aux actions de l’utilisateur.
 -->
+
+![Scénarimage - Image 1](scenarimage_01.png)
+
+À son état neutre, la zone de notre projet est plongée dans le noir.
+
+![Scénarimage - Image 2](scenarimage_02.png)
+
+Lorsqu’un interacteur entre dans la zone, une flamme le représentant s’allume à l’écran et de la musique sort des haut-parleurs. La lumière de la flamme révèle également les esprits présents à l’écran. Ensuite, lorsque l’interacteur prend une bougie sur la table, celle-ci s’allume.
+
+![Scénarimage - Image 3](scenarimage_03.png)
+
+Lorsque l’interacteur agite sa bougie, la flamme à l’écran change, grossit et se modifie.
+
+![Scénarimage - Image 4](scenarimage_04.png)
+
+Quand un autre interacteur arrive dans la zone et prend une bougie, le même processus se répète pour lui.
+
+![Scénarimage - Image 5](scenarimage_05.png)
+
+Quand plusieurs interacteurs sont dans la zone (quatre personnes ou plus), les flammes des interacteurs éclairent tout l’écran et font disparaître les esprits. De plus, la musique change et les LED sur les côtés de l’écran s’allument.
