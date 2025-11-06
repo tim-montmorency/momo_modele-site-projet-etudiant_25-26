@@ -53,8 +53,7 @@ Un écran projette des flammes de chandelles qui reflètent la présence et la p
 
 Les interacteurs ont le pouvoir de manipuler le visuel (dans l'écran) à l'aide des "chandelles" (objets physiques) pour enrichir leur expérience.
 
-En ce qui concerne la progression, l’interacteur est invité à prendre une chandelle (l’objet) sur la table. La flamme s'allume à l’écran suit la position de l’objet physique et révèle la présence de plusieurs ombres représentant des forces négatives (oppresseurs). Les visiteurs peuvent agiter la chandelle pour modifier l’apparence de leur flamme ainsi que sa note musicale. Ces modifications influencent à la fois l’intensité de la lumière et la hauteur (le pitch) des sons émis par ces flammes. En agitant l'objet, l'interacteur perçoit que les ombres se déplace pour éviter la flamme de la chandelle. Un maximum de six visiteurs peuvent participer simultanément à l’expérience : six flammes apparaissent alors à l’écran. Ensemble, ces flammes unissent leurs forces pour chasser les ombres hors de l’écran. Quand les ombres ont complètement disparu, une animation lumineuse aux teintes chaudes se déclenche, accompagnée d’une musique pendant une minute, puis celle-ci s’estompe, laissant les ombres reprendre le contrôle de l’écran.
-
+En ce qui concerne la progression, l’interacteur est invité à prendre une chandelle (l’objet) sur la table. La flamme s'allume à l’écran suit la position de l’objet physique et révèle la présence de plusieurs ombres représentant des forces négatives (oppresseurs). Les visiteurs peuvent agiter la chandelle pour modifier l’apparence de leur flamme ainsi que sa note musicale. Ces modifications influencent à la fois l’intensité de la lumière et la hauteur (le pitch) des sons émis par ces flammes. En agitant l'objet, l'interacteur perçoit que les ombres se déplace pour éviter la flamme de la chandelle. Un maximum de six visiteurs peuvent participer simultanément à l’expérience : six flammes apparaissent alors à l’écran. Ensemble, ces flammes unissent leurs forces pour chasser les ombres hors de l’écran. Quand les ombres ont complètement disparu, une animation lumineuse aux teintes chaudes se déclenche, accompagnée d’une musique. Après que les interacteurs déposent les chandelles, un fondu (« fade out ») des lumières de la pièce s’amorce, permettant de revenir à l’état initial dans (l’obscurité) afin que les ombres reprennent le contrôle de l’écran.
 ### L'aspect collectif
 
 <!--
@@ -81,7 +80,9 @@ Le terme « social » désigne ce qui concerne la vie en société, c’est-à-d
  L’adjectif peut aussi qualifier des animaux ou des plantes vivant en communauté selon des règles strictes, comme les insectes sociaux (fourmis, abeilles) ou certaines espèces végétales formant des colonies denses.
 -->
 
-En chassant les ombres ensemble, les interacteurs créent des liens entre eux à travers l’expérience vécue. Ces liens reflètent l’harmonie, le travail d’équipe et la communication entre les individus. Par conséquent, ils démontrent que leur véritable pouvoir réside dans la force du rassemblement.
+La peur du noir, ou nyctophobie, est assez fréquente dans de nombreuses sociétés, même si elle n’est pas universelle. Dans notre culture, l’obscurité était souvent associée au danger, aux monstres et aux mauvais esprits, ce qui renforçait la crainte du noir. Aujourd’hui, cette peur persiste chez certaines personnes, car l’absence de lumière crée un sentiment d’insécurité et d’incertain.
+
+Nous avons choisi ce sujet parce que nous avons remarqué autour de nous que certaines personnes ont peur du noir tandis que d’autres non. En affrontant cette peur ensemble, nous créons des liens à travers l’expérience partagée : nous communiquons, coopérons et nous soutenons mutuellement. Cela montre que notre vrai pouvoir réside dans le rassemblement, et que la peur peut se transformer en une occasion de renforcer nos liens. 
 
 ## Inspirations
 
