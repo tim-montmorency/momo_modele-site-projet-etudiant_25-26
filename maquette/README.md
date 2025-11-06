@@ -45,3 +45,12 @@ https://tim-montmorency.com/582523-gestion/#/contenus/3_planification/
 graph LR
     Règles --> 
 
+## Liste d'équipements
+
+## Liste de logiciels
+
+## Synoptique
+
+## Plan d'implantation
+
+## Budget
