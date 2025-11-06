@@ -42,18 +42,18 @@ description de l'espace réel et virtuel du projet et comment l'espace réel est
 
 Notre installation est située dans le grand studio de notre programme Techniques. Le projet partagera l’espace avec d’autres installations voisines. Nous réserverons donc une zone du studio suffisamment grande pour accueillir de 5 à 6 personnes à la fois, afin qu’elles puissent participer à l’expérience.
 
-L’espace réel est majoritairement liminal, afin d’inviter les interacteurs à se déplacer dans la pièce. Une petite table sera disposée avec de fausses bougies (objets interactifs) destinées à être utiliser pour l’expérience.
+L’espace réel est majoritairement liminal, afin d’inviter les interacteurs à se déplacer dans la pièce. Une petite table sera disposée avec de fausses chandelles (objets interactifs) destinées à être utiliser pour l’expérience.
 
 L'espace virtuel (l'écran) est couverte des ombres représentés par des formes abstraits / étrangées.
-Un écran projette des flammes de bougies qui reflètent la présence et la position (à la hauteur) de l'objet que les interacteurs tiennent dans la main.
+Un écran projette des flammes de chandelles qui reflètent la présence et la position (à la hauteur) de l'objet que les interacteurs tiennent dans la main.
 
 ### La progression
 
 <!--  sur le temps et la progression -->
 
-Les interacteurs ont le pouvoir de manipuler le visuel (dans l'écran) à l'aide des "boujies" (objets physiques) pour enrichir leur expérience.
+Les interacteurs ont le pouvoir de manipuler le visuel (dans l'écran) à l'aide des "chandelles" (objets physiques) pour enrichir leur expérience.
 
-En ce qui concerne la progression, l’interacteur est invité à prendre une chandelle (l’objet) sur la table. La flamme s'allume à l’écran suit la position de l’objet physique et révèle la présence de plusieurs ombres représentant des forces négatives (oppresseurs). Les visiteurs peuvent agiter la chandelle pour modifier l’apparence de leur flamme ainsi que sa note musicale. Ces modifications influencent à la fois l’intensité de la lumière et la hauteur (le pitch) des sons émis par ces flammes. En agitant l'objet, l'interacteur perçoit que les ombres se déplace pour éviter la flamme de la chandelle. Un maximum de six visiteurs peuvent participer simultanément à l’expérience : six flammes apparaissent alors à l’écran. Ensemble, ces flammes unissent leurs forces pour chasser les ombres hors de l’écran.
+En ce qui concerne la progression, l’interacteur est invité à prendre une chandelle (l’objet) sur la table. La flamme s'allume à l’écran suit la position de l’objet physique et révèle la présence de plusieurs ombres représentant des forces négatives (oppresseurs). Les visiteurs peuvent agiter la chandelle pour modifier l’apparence de leur flamme ainsi que sa note musicale. Ces modifications influencent à la fois l’intensité de la lumière et la hauteur (le pitch) des sons émis par ces flammes. En agitant l'objet, l'interacteur perçoit que les ombres se déplace pour éviter la flamme de la chandelle. Un maximum de six visiteurs peuvent participer simultanément à l’expérience : six flammes apparaissent alors à l’écran. Ensemble, ces flammes unissent leurs forces pour chasser les ombres hors de l’écran. Quand les ombres ont complètement disparu, une animation lumineuse aux teintes chaudes se déclenche, accompagnée d’une musique pendant une minute, puis celle-ci s’estompe, laissant les ombres reprendre le contrôle de l’écran.
 
 ### L'aspect collectif
 
@@ -66,9 +66,9 @@ Un collectif désigne l'ensemble de personnes ou d'entités qui s'unissent de ma
  Ce groupe, souvent considéré comme une entité à vocation communautaire, fonctionne sous le pilotage de ses membres et repose sur une volonté partagée de développer des solidarités.
 -->
 
-Les ombres sont des dangers qui persistent tout au long de l’expérience. Elles hantent et intimident lorsqu’une personne tente de les éloigner. Ainsi, les participants sont encouragés à se rassembler et à utiliser les bougies (objets) pour chasser ensemble ces forces perturbatrices.
+Les ombres sont des dangers qui persistent tout au long de l’expérience. Elles hantent et intimident lorsqu’une personne tente de les éloigner. Ainsi, les participants sont encouragés à se rassembler et à utiliser les chandelles (objets) pour chasser ensemble ces forces perturbatrices.
 
-Bref, la présence des ombres encourage les interacteurs de se réuinir pour les chasser à l'aide des bougies physiques.
+Bref, la présence des ombres encourage les interacteurs de se réuinir pour les chasser à l'aide des chandelles physiques.
 
 ### L'aspect social
 
