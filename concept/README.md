@@ -53,7 +53,7 @@ Un écran projette des flammes de bougies qui reflètent la présence et la posi
 
 Les interacteurs ont le pouvoir de manipuler le visuel (dans l'écran) à l'aide des "boujies" (objets physiques) pour enrichir leur expérience.
 
-En ce qui concerne la progression, l’interacteur est invité à prendre une chandelle (l’objet) sur la table. La flamme s'allume à l’écran suit la position de l’objet physique et révèle la présence de plusieurs ombres représentant des forces négatives (oppresseurs). Les visiteurs peuvent agiter la chandelle pour modifier l’apparence de leur flamme ainsi que sa note musicale. Ces modifications influencent à la fois l’intensité de la lumière et la hauteur (le pitch) des sons émis par ces flammes. Un maximum de six visiteurs peuvent participer simultanément à l’expérience : six flammes apparaissent alors à l’écran. Ensemble, ces flammes unissent leurs forces pour chasser les ombres hors de l’écran.
+En ce qui concerne la progression, l’interacteur est invité à prendre une chandelle (l’objet) sur la table. La flamme s'allume à l’écran suit la position de l’objet physique et révèle la présence de plusieurs ombres représentant des forces négatives (oppresseurs). Les visiteurs peuvent agiter la chandelle pour modifier l’apparence de leur flamme ainsi que sa note musicale. Ces modifications influencent à la fois l’intensité de la lumière et la hauteur (le pitch) des sons émis par ces flammes. En agitant l'objet, l'interacteur perçoit que les ombres se déplace pour éviter la flamme de la chandelle. Un maximum de six visiteurs peuvent participer simultanément à l’expérience : six flammes apparaissent alors à l’écran. Ensemble, ces flammes unissent leurs forces pour chasser les ombres hors de l’écran.
 
 ### L'aspect collectif
 
