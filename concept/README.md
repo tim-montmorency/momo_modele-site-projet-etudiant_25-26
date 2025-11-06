@@ -40,7 +40,7 @@ L’interacteur entre dans la pièce. Une flamme de bougie s’allume à l’éc
 description de l'espace réel et virtuel du projet et comment l'espace réel est transposé, transorté ou prolongé dans le virtuel et inversement
 -->
 
-Notre installation est située dans le grand studio de notre programme Techniques. Le projet partagera l’espace avec d’autres installations voisines. Nous réserverons donc une zone du studio suffisamment grande pour accueillir de 5 à 6 personnes à la fois, afin qu’elles puissent participer à l’expérience.
+Notre installation est située dans le grand studio de notre programme Techniques. Le projet partagera l’espace avec d’autres installations voisines. Nous réserverons donc une zone du studio suffisamment grande pour accueillir de 5 à 6 personnes à la fois, afin qu’elles puissent participer à l’expérience. Donc, environ 5 mètres de longueur 3,5 mètres de largeurs.
 
 L’espace réel est majoritairement liminal, afin d’inviter les interacteurs à se déplacer dans la pièce. Une petite table sera disposée avec de fausses chandelles (objets interactifs) destinées à être utiliser pour l’expérience.
 
@@ -53,7 +53,9 @@ Un écran projette des flammes de chandelles qui reflètent la présence et la p
 
 Les interacteurs ont le pouvoir de manipuler le visuel (dans l'écran) à l'aide des "chandelles" (objets physiques) pour enrichir leur expérience.
 
-En ce qui concerne la progression, l’interacteur est invité à prendre une chandelle (l’objet) sur la table. La flamme s'allume à l’écran suit la position de l’objet physique et révèle la présence de plusieurs ombres représentant des forces négatives (oppresseurs). Les visiteurs peuvent agiter la chandelle pour modifier l’apparence de leur flamme ainsi que sa note musicale. Ces modifications influencent à la fois l’intensité de la lumière et la hauteur (le pitch) des sons émis par ces flammes. En agitant l'objet, l'interacteur perçoit que les ombres se déplace pour éviter la flamme de la chandelle. Un maximum de six visiteurs peuvent participer simultanément à l’expérience : six flammes apparaissent alors à l’écran. Ensemble, ces flammes unissent leurs forces pour chasser les ombres hors de l’écran. Quand les ombres ont complètement disparu, une animation lumineuse aux teintes chaudes se déclenche, accompagnée d’une musique. Après que les interacteurs déposent les chandelles, un fondu (« fade out ») des lumières de la pièce s’amorce, permettant de revenir à l’état initial dans (l’obscurité) afin que les ombres reprennent le contrôle de l’écran.
+En ce qui concerne la progression, l’interacteur est invité à prendre une chandelle (l’objet) sur la table. La flamme s'allume à l’écran suit la position de l’objet physique et révèle la présence de plusieurs ombres représentant des forces négatives (oppresseurs). Les visiteurs peuvent agiter la chandelle pour modifier l’apparence de leur flamme ainsi que sa note musicale. Ces modifications influencent à la fois l’intensité de la lumière et la hauteur (le pitch) des sons émis par ces flammes. En agitant l'objet, l'interacteur perçoit que les ombres se déplace pour éviter la flamme de la chandelle. 
+
+Un maximum de six visiteurs peuvent participer simultanément à l’expérience : six flammes apparaissent alors à l’écran. Ensemble, ces flammes unissent leurs forces pour chasser les ombres hors de l’écran. Quand les ombres ont complètement disparu, une animation lumineuse aux teintes chaudes se déclenche, accompagnée d’une musique. Après que les interacteurs déposent les chandelles, un fondu (« fade out ») des lumières de la pièce s’amorce, permettant de revenir à l’état initial dans (l’obscurité) afin que les ombres reprennent le contrôle de l’écran.
 ### L'aspect collectif
 
 <!--
