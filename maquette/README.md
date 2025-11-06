@@ -24,20 +24,4 @@ Une maquette permet de déterminer si un projet est réalisable sur les plans te
 
 ```mermaid
 graph LR
-    Règles --> Système
-    Système --> Expérience
-```
-
-1. **Les règles sont les briques de base.**  
-2. **Le système applique les règles.**  
-3. **L’expérience est la perspective du joueur.**  
-
-### 4. Asect temporelle
-- **Planification du projet** : Établir un calendrier réaliste en tenant compte des délais de développement, de test et de déploiement.  
-- **Gestion des risques** : Identifier les risques potentiels qui pourraient retarder le projet et prévoir des plans d'urgence.  
-
-### 5. Aspect légal et éthique
-- **Conformité réglementaire** : S'assurer que le projet respecte les lois en vigueur, notamment en matière de propriété intellectuelle et de protection des données.  
-- **Accessibilité** : Garantir que l'installation interactive est accessible à tous les utilisateur·rice·s, y compris les personnes en situation de handicap.  
-
--->
+    Règles --> 
