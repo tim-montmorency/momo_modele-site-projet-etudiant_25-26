@@ -1,14 +1,23 @@
 # Maquette (faisabilité)
 
-<!--
+
 https://tim-montmorency.com/582523-gestion/#/contenus/3_planification/
 
 # Maquette
 
-## Importance de la maquette dans les projets multimédias
-Une maquette permet de déterminer si un projet est réalisable sur les plans technique, économique et opérationnel. Elle aide à identifier les obstacles potentiels et à planifier les ressources nécessaires. Dans le contexte des technologies interactives, où les innovations sont rapides et les attentes des utilisateur·rice·s élevées, cette démarche devient encore plus critique.
+## Scénarisation
 
-## Étapes clés de la maquette
+### Scène 1
+<hr></hr>
+```
+| Left Align (default) | Center Align | Right Align |
+| :------------------- | :----------: | ----------: |
+| React.js             | Node.js      | MySQL       |
+| Next.js              | Express      | MongoDB     |
+| Vue.js               | Nest.js      | Redis       |
+```
+
+<!--## Étapes clés de la maquette
 
 ### 1. Ascpect technique
 - **Analyse des exigences techniques** : Définir les spécifications techniques du projet, y compris les logiciels, le matériel, les interfaces utilisateur et les protocoles de communication.  
@@ -25,3 +34,4 @@ Une maquette permet de déterminer si un projet est réalisable sur les plans te
 ```mermaid
 graph LR
     Règles --> 
+
