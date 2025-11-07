@@ -48,10 +48,56 @@ graph LR
 
 ## Liste d'équipements
 
+
+### Équipements générals
+| Nom | Quantité | Fonction | disponible? | 
+| :------------------- | :----------: | :----------: |----------: |
+| Ordinateur | 1 | Poste source / Traitement du fonction de l'installation | oui |
+| Câble Ethernet| 1 | Connecter l'ordinateur à l'ethernet | oui |
+| Câble rallonge | à voir | Aide à l'allimentation des objets techniques | oui |
+| Fausse chandelle | 6 | Objets interactif qui manipulent l'installation | non |
+| Table | 1 | Support les chandelles interactives | non |
+| Nappe pour table | 1 | Décoration pour que la table soit cohérent avec l'ambiance | non |
+
+### Équipements visuels
+| Nom | Quantité | Fonction | disponible? | 
+| :------------------- | :----------: | :----------: |----------: |
+| Projecteur Epsilon | 1 | Projeter le visuel sur le mur | oui |
+| Câble d'alimentation| 1 | Alimenter le projecteur | oui |
+| Extendeur (receiver/sender) | 1 | Étendre la connection du projecteur et l'ordinateur | oui |
+| Câble Ethernet| 2 | Connecter le projecteur et les extendeurs | oui |
+| Barre lumière DEL | 2 | Projeter de la lumière d'ambiance | oui |
+| BC-204 (contrôleur arnet) | 1 | Connecter les lumières DEL à l'ordinateur | oui |
+| Câble SPI | 3 | Connecter les lumières DEL entre eux et le controleur arnet | oui |
+| Câble Display Port | 2 | Connecter le contrôleur vers l'ordinateur  et l'ordinateur vers le extendeur| oui |
+
+
+### Équipements sonores
+| Nom | Quantité | Fonction | disponible? | 
+| :------------------- | :----------: | :----------: |----------: |
+| Haut-parleur| 2 | Projeter les effets sonores | oui |
+| Câble XLR| 2 | Connecter les hauts-parleur au carte de son | oui |
+| Câble TLS| 2 | Connecter les hauts-parleur au carte de son | oui |
+| Carte de son| 1 | Manipule les effets sonores par l'ordinateur | oui |
+| Câble d'alimentation| 2 | Alimenter les hauts-parleur | oui |
+
+
 ## Liste de logiciels
+
+| Nom | Fonction | Prix 
+| :------------------- | :----------: |----------: |
+| OBS | Projection du visuel et Activation des barres DEL | ---|
+| TouchDesigner | Traitement du visuel et sonore en temps réel | ---|
+| Reaper | Création des effets sonores | ---|
+| Surge XT | Création de l'ambiance sonore | ---|
+| HyperHRD| Manipulation des lumières DEL| ---|
 
 ## Synoptique
 
 ## Plan d'implantation
 
 ## Budget
+
+| Nom | Quantité | Prix 
+| :------------------- | :----------: |----------: |
+| Projecteur | 1 | ---|
