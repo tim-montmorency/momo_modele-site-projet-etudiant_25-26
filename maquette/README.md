@@ -84,13 +84,15 @@ graph LR
 
 ## Liste de logiciels
 
-| Nom | Fonction | Prix 
+| Nom | Fonction | Prix |  
 | :------------------- | :----------: |----------: |
 | OBS | Projection du visuel et Activation des barres DEL | ---|
 | TouchDesigner | Traitement du visuel et sonore en temps réel | ---|
 | Reaper | Création des effets sonores | ---|
 | Surge XT | Création de l'ambiance sonore | ---|
 | HyperHRD| Manipulation des lumières DEL| ---|
+| Arduino| Programmation des LED (lumière des chandelles)| ---|
+| Visuel Studio Code| Programmation de l'intéraction| ---|
 
 ## Synoptique
 
