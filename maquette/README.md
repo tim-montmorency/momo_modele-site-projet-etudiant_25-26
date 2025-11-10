@@ -86,13 +86,13 @@ graph LR
 
 | Nom | Fonction | Prix |  
 | :------------------- | :----------: |----------: |
-| OBS | Projection du visuel et Activation des barres DEL | ---|
-| TouchDesigner | Traitement du visuel et sonore en temps réel | ---|
-| Reaper | Création des effets sonores | ---|
-| Surge XT | Création de l'ambiance sonore | ---|
-| HyperHRD| Manipulation des lumières DEL| ---|
-| Arduino| Programmation des LED (lumière des chandelles)| ---|
-| Visuel Studio Code| Programmation de l'intéraction| ---|
+| OBS | Projection du visuel et Activation des barres DEL | 0,00$ |
+| TouchDesigner | Traitement du visuel et sonore en temps réel | 0,00$ (version gratuite) |
+| Reaper | Création des effets sonores | 0,00$ |
+| Surge XT | Création de l'ambiance sonore | 0,00$ |
+| HyperHRD| Manipulation des lumières DEL| 0,00$ |
+| Arduino| Programmation des LED (lumière des chandelles)| 0,00$ |
+| Visuel Studio Code| Programmation de l'intéraction| 0,00$ |
 
 ## Synoptique
 
