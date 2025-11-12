@@ -40,7 +40,7 @@ L’interacteur entre dans la pièce. Une flamme de bougie s’allume à l’éc
 description de l'espace réel et virtuel du projet et comment l'espace réel est transposé, transorté ou prolongé dans le virtuel et inversement
 -->
 
-Notre installation est située dans le grand studio de notre programme Techniques. Le projet partagera l’espace avec d’autres installations voisines. Nous réserverons donc une zone du studio suffisamment grande pour accueillir de 5 à 6 personnes à la fois, afin qu’elles puissent participer à l’expérience. Donc, environ 5 mètres de longueur 3,5 mètres de largeurs.
+Notre installation est située dans le grand studio de notre programme Techniques. Le projet partagera l’espace avec d’autres installations voisines. Nous réserverons donc une zone du studio suffisamment grande pour accueillir de 5 personnes à la fois, afin qu’elles puissent participer à l’expérience. Donc, environ 3 mètres de longueur 3,3 mètres de largeurs puis 2.5 mètres de hauteurs.
 
 L’espace réel est majoritairement liminal, afin d’inviter les interacteurs à se déplacer dans la pièce. Une petite table sera disposée avec de fausses chandelles (objets interactifs) destinées à être utiliser pour l’expérience.
 
