@@ -100,6 +100,10 @@ graph LR
 
 ## Plan d'implantation
 
+### 2D
+
+### 3D
+
 ## Budget
 
 | Nom | Quantité | Prix 
