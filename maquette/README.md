@@ -88,11 +88,13 @@ graph LR
 | :------------------- | :----------: |----------: |
 | OBS | Projection du visuel et Activation des barres DEL | 0,00$ |
 | TouchDesigner | Traitement du visuel et sonore en temps réel | 0,00$ (version gratuite) |
+| Maya | Création environnement, ombres et flammes | 350$/mois |
 | Reaper | Création des effets sonores | 0,00$ |
 | Surge XT | Création de l'ambiance sonore | 0,00$ |
 | HyperHRD| Manipulation des lumières DEL| 0,00$ |
-| Arduino| Programmation des LED (lumière des chandelles)| 0,00$ |
-| Visuel Studio Code| Programmation de l'intéraction| 0,00$ |
+| Visuel Studio Code | Programmation de l'intéraction| 0,00$ |
+| Pure Data | Communication du programmation vers l'interaction des chandelles et le visuel virtuel | 0,00$ |
+| Unity | Manipulation des données de déplacement des flammes dans l'espace virtuel | 0,00$ (version gratuite) |
 
 ## Synoptique
 
