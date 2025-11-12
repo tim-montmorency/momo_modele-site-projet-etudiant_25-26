@@ -50,7 +50,7 @@ graph LR
 
 
 ### Équipements générals
-| Nom | Quantité | Fonction | disponible? | 
+| Nom d'équipement| Quantité | Fonction | disponible? | 
 | :------------------- | :----------: | :----------: |----------: |
 | Ordinateur | 1 | Poste source / Traitement du fonction de l'installation | oui |
 | Câble Ethernet| 1 | Connecter l'ordinateur à l'ethernet | oui |
@@ -60,7 +60,7 @@ graph LR
 | Nappe pour table | 1 | Décoration pour que la table soit cohérent avec l'ambiance | non |
 
 ### Équipements visuels
-| Nom | Quantité | Fonction | disponible? | 
+| Nom d'équipement| Quantité | Fonction | disponible? | 
 | :------------------- | :----------: | :----------: |----------: |
 | Projecteur Epsilon | 1 | Projeter le visuel sur le mur | oui |
 | Câble d'alimentation| 1 | Alimenter le projecteur | oui |
@@ -73,7 +73,7 @@ graph LR
 
 
 ### Équipements sonores
-| Nom | Quantité | Fonction | disponible? | 
+| Nom d'équipement| Quantité | Fonction | disponible? | 
 | :------------------- | :----------: | :----------: |----------: |
 | Haut-parleur| 2 | Projeter les effets sonores | oui |
 | Câble XLR| 2 | Connecter les hauts-parleur au carte de son | oui |
@@ -84,7 +84,7 @@ graph LR
 
 ## Liste de logiciels
 
-| Nom | Fonction | Prix |  
+| Nom de logiciel | Fonction | Prix |  
 | :------------------- | :----------: |----------: |
 | OBS | Projection du visuel et Activation des barres DEL | 0,00$ |
 | TouchDesigner | Traitement du visuel et sonore en temps réel | 0,00$ (version gratuite) |
