@@ -50,7 +50,7 @@ graph LR
 
 
 ### Équipements générals
-| Nom d'équipement| Quantité | Fonction | disponible? | 
+| Nom d'équipement| Quantité | Fonction | Offert par le Programme | 
 | :------------------- | :----------: | :----------: |----------: |
 | Ordinateur | 1 | Poste source / Traitement du fonction de l'installation | oui |
 | Câble Ethernet| 1 | Connecter l'ordinateur à l'ethernet | oui |
@@ -60,7 +60,7 @@ graph LR
 | Nappe pour table | 1 | Décoration pour que la table soit cohérent avec l'ambiance | non |
 
 ### Équipements visuels
-| Nom d'équipement| Quantité | Fonction | disponible? | 
+| Nom d'équipement| Quantité | Fonction | Offert par le Programme | 
 | :------------------- | :----------: | :----------: |----------: |
 | Projecteur Epsilon | 1 | Projeter le visuel sur le mur | oui |
 | Câble d'alimentation| 1 | Alimenter le projecteur | oui |
@@ -73,7 +73,7 @@ graph LR
 
 
 ### Équipements sonores
-| Nom d'équipement| Quantité | Fonction | disponible? | 
+| Nom d'équipement| Quantité | Fonction | Offert par le Programme | 
 | :------------------- | :----------: | :----------: |----------: |
 | Haut-parleur| 2 | Projeter les effets sonores | oui |
 | Câble XLR| 2 | Connecter les hauts-parleur au carte de son | oui |
@@ -84,17 +84,17 @@ graph LR
 
 ## Liste de logiciels
 
-| Nom de logiciel | Fonction | Prix |  
-| :------------------- | :----------: |----------: |
-| OBS | Projection du visuel et Activation des barres DEL | 0,00$ |
-| TouchDesigner | Traitement du visuel et sonore en temps réel | 0,00$ (version gratuite) |
-| Maya | Création environnement, ombres et flammes | 350$/mois |
-| Reaper | Création des effets sonores | 0,00$ |
-| Surge XT | Création de l'ambiance sonore | 0,00$ |
-| HyperHRD| Manipulation des lumières DEL| 0,00$ |
-| Visuel Studio Code | Programmation de l'intéraction| 0,00$ |
-| Pure Data | Communication du programmation vers l'interaction des chandelles et le visuel virtuel | 0,00$ |
-| Unity | Manipulation des données de déplacement des flammes dans l'espace virtuel | 0,00$ (version gratuite) |
+| Nom de logiciel | Fonction | Prix |  Offert par le Programme | 
+| :------------------- | :----------: | :----------:  |----------: |
+| OBS | Projection du visuel et Activation des barres DEL | 0,00$ |  oui |
+| TouchDesigner | Traitement du visuel et sonore en temps réel | 0,00$ (version gratuite) |  oui |
+| Maya | Création environnement, ombres et flammes | 350$/mois |  oui |
+| Reaper | Création des effets sonores | 0,00$ |  oui |
+| Surge XT | Création de l'ambiance sonore | 0,00$ | oui |
+| HyperHRD| Manipulation des lumières DEL| 0,00$ |  oui |
+| Visuel Studio Code | Programmation de l'intéraction| 0,00$ |  oui |
+| Pure Data | Communication du programmation vers l'interaction des chandelles et le visuel virtuel | 0,00$ |  oui |
+| Unity | Manipulation des données de déplacement des flammes dans l'espace virtuel | 0,00$ (version gratuite) | oui |
 
 ## Synoptique
 
