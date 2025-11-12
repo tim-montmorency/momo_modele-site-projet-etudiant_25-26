@@ -32,7 +32,7 @@ Qu'est-ce que fait l'interacteur?
 un résumé du parcours de l'interacteur du début à la fin de son expérience - qu'est-ce qu'il fait, qu'est-ce qu'il manipule, etc
 -->
 
-L’interacteur entre dans la pièce. Une flamme de bougie s’allume à l’écran, accompagnée d’une note musicale synthétique. Plus il y a de visiteurs, plus il y a des flammes et de variations sonores. Les visiteurs sont invités à prendre une chandelle (objet physique) posée sur une table. La flamme à l’écran suit la position de l’objet. Les interacteurs ont le pouvoir de modifier l’intensité de la flamme ainsi que celle de la note musicale qui l’accompagne. Dès que l’interacteur quitte la pièce, sa flamme s’éteint et sa note se dissout.
+L’interacteur entre dans la pièce. Une flamme de bougie s’allume sur le mur, accompagnée d’une note musicale synthétique. Plus il y a de visiteurs, plus il y a des flammes et de variations sonores. Les visiteurs sont invités à prendre une chandelle (objet physique) posée sur une table. La flamme projetée suit la position de l’objet. Les interacteurs ont le pouvoir de modifier l’intensité de la flamme ainsi que celle de la note musicale qui l’accompagne. Dès que l’interacteur quitte la pièce, sa flamme s’éteint et sa note se dissout.
 
 ### L'espace
 
@@ -44,18 +44,18 @@ Notre installation est située dans le grand studio de notre programme Technique
 
 L’espace réel est majoritairement liminal, afin d’inviter les interacteurs à se déplacer dans la pièce. Une petite table sera disposée avec de fausses chandelles (objets interactifs) destinées à être utiliser pour l’expérience.
 
-L'espace virtuel (l'écran) est couverte des ombres représentés par des formes abstraits / étrangées.
-Un écran projette des flammes de chandelles qui reflètent la présence et la position (à la hauteur) de l'objet que les interacteurs tiennent dans la main.
+L'espace virtuel (projeté) est couverte des ombres représentés par des formes abstraits / étrangées.
+Le projection des flammes de chandelles qui reflètent la présence et la position (à la hauteur) de l'objet que les interacteurs tiennent dans la main.
 
 ### La progression
 
 <!--  sur le temps et la progression -->
 
-Les interacteurs ont le pouvoir de manipuler le visuel (dans l'écran) à l'aide des "chandelles" (objets physiques) pour enrichir leur expérience.
+Les interacteurs ont le pouvoir de manipuler le visuel (projeté sur le mur) à l'aide des "chandelles" (objets physiques) pour enrichir leur expérience.
 
-En ce qui concerne la progression, l’interacteur est invité à prendre une chandelle (l’objet) sur la table. La flamme s'allume à l’écran suit la position de l’objet physique et révèle la présence de plusieurs ombres représentant des forces négatives (oppresseurs). Les visiteurs peuvent agiter la chandelle pour modifier l’apparence de leur flamme ainsi que sa note musicale. Ces modifications influencent à la fois l’intensité de la lumière et la hauteur (le pitch) des sons émis par ces flammes. En agitant l'objet, l'interacteur perçoit que les ombres se déplace pour éviter la flamme de la chandelle. 
+En ce qui concerne la progression, l’interacteur est invité à prendre une chandelle (l’objet) sur la table. La flamme s'allume sur le mur suit la position de l’objet physique et révèle la présence de plusieurs ombres représentant des forces négatives (oppresseurs). Les visiteurs peuvent agiter la chandelle pour modifier l’apparence de leur flamme ainsi que sa note musicale. Ces modifications influencent à la fois l’intensité de la lumière et la hauteur (le pitch) des sons émis par ces flammes. En agitant l'objet, l'interacteur perçoit que les ombres se déplace pour éviter la flamme de la chandelle. 
 
-Un maximum de six visiteurs peuvent participer simultanément à l’expérience : six flammes apparaissent alors à l’écran. Ensemble, ces flammes unissent leurs forces pour chasser les ombres hors de l’écran. Quand les ombres ont complètement disparu, une animation lumineuse aux teintes chaudes se déclenche, accompagnée d’une musique. Après que les interacteurs déposent les chandelles, un fondu (« fade out ») des lumières de la pièce s’amorce, permettant de revenir à l’état initial dans (l’obscurité) afin que les ombres reprennent le contrôle de l’écran.
+Un maximum de 5 visiteurs peuvent participer simultanément à l’expérience : 5 flammes apparaissent alors sur le mur. Ensemble, ces flammes unissent leurs forces pour chasser les ombres hors du mur. Quand les ombres ont complètement disparu, une animation lumineuse aux teintes chaudes se déclenche, accompagnée d’une musique. Après que les interacteurs déposent les chandelles, un fondu (« fade out ») des lumières de la pièce s’amorce, permettant de revenir à l’état initial dans (l’obscurité) afin que les ombres reprennent le contrôle du mur.
 ### L'aspect collectif
 
 <!--
@@ -162,11 +162,11 @@ Le scénarimage doit inclure des annotations ou des visuels montrant les répons
 
 ![Scénarimage - Image 2](scenarimage_02.png)
 
-Lorsqu’un interacteur entre dans la zone, une flamme le représentant s’allume à l’écran et de la musique sort des haut-parleurs. La lumière de la flamme révèle également les esprits présents à l’écran. Ensuite, lorsque l’interacteur prend une bougie sur la table, celle-ci s’allume.
+Lorsqu’un interacteur entre dans la zone, une flamme le représentant s’allume sur le mur et de la musique sort des haut-parleurs. La lumière de la flamme révèle également les esprits présents à la projection. Ensuite, lorsque l’interacteur prend une bougie sur la table, celle-ci s’allume.
 
 ![Scénarimage - Image 3](scenarimage_03.png)
 
-Lorsque l’interacteur agite sa bougie, la flamme à l’écran change, grossit et se modifie.
+Lorsque l’interacteur agite sa bougie, la flamme de la projection change, grossit et se modifie.
 
 ![Scénarimage - Image 4](scenarimage_04.png)
 
@@ -174,4 +174,4 @@ Quand un autre interacteur arrive dans la zone et prend une bougie, le même pro
 
 ![Scénarimage - Image 5](scenarimage_05.png)
 
-Quand plusieurs interacteurs sont dans la zone (quatre personnes ou plus), les flammes des interacteurs éclairent tout l’écran et font disparaître les esprits. De plus, la musique change et les LED sur les côtés de l’écran s’allument.
+Quand plusieurs interacteurs sont dans la zone (quatre personnes ou plus), les flammes des interacteurs éclairent tout l'espace virtuel et font disparaître les esprits. De plus, la musique change et les LED sur les côtés de la projection s’allument.
