@@ -65,10 +65,10 @@ graph LR
 | Projecteur Epsilon | 1 | Projeter le visuel sur le mur | oui |
 | Câble d'alimentation| 1 | Alimenter le projecteur | oui |
 | Extendeur (receiver/sender) | 1 | Étendre la connection du projecteur et l'ordinateur | oui |
-| Câble Ethernet| 2 | Connecter le projecteur et les extendeurs | oui |
-| Barre lumière DEL | 2 | Projeter de la lumière d'ambiance | oui |
-| BC-204 (contrôleur arnet) | 1 | Connecter les lumières DEL à l'ordinateur | oui |
-| Câble SPI | 3 | Connecter les lumières DEL entre eux et le controleur arnet | oui |
+| Câble Ethernet| 3 | Connecter le projecteur et les extendeurs | oui |
+| Barre lumière DEL (LED Pixel Bar)| 2 | Projeter de la lumière d'ambiance | oui |
+| BC-204 (contrôleur arnet vers SPI/DMX) | 1 | Connecter les lumières DEL à l'ordinateur | oui |
+| Câble connecteur SPI extension (3 pin) | 3 | Connecter les lumières DEL entre eux et le controleur arnet | oui |
 | Câble Display Port | 2 | Connecter le contrôleur vers l'ordinateur  et l'ordinateur vers le extendeur| oui |
 
 
@@ -93,8 +93,8 @@ graph LR
 | Surge XT | Création de l'ambiance sonore | 0,00$ | oui |
 | HyperHRD| Manipulation des lumières DEL| 0,00$ |  oui |
 | Visuel Studio Code | Programmation de l'intéraction| 0,00$ |  oui |
-| Pure Data | Communication du programmation vers l'interaction des chandelles et le visuel virtuel | 0,00$ |  oui |
-| Unity | Manipulation des données de déplacement des flammes dans l'espace virtuel | 0,00$ (version gratuite) | oui |
+| Pure Data | Communication du programmation de l'interaction des chandelles vers le visuel virtuel | 0,00$ |  oui |
+| Unity | Déplacement des flammes et les ombres dans l'espace virtuel | 0,00$ (version gratuite) | oui |
 
 ## Synoptique
 
