@@ -70,6 +70,7 @@ graph LR
 | BC-204 (contrôleur arnet vers SPI/DMX) | 1 | Connecter les lumières DEL à l'ordinateur | oui |
 | Câble connecteur SPI extension (3 pin) | 3 | Connecter les lumières DEL entre eux et le controleur arnet | oui |
 | Câble Display Port | 2 | Connecter le contrôleur vers l'ordinateur  et l'ordinateur vers le extendeur| oui |
+| Kinect | 1 | Capturer le mouvement de l'interacteur avec la chandelle et envoyer les donnés à l'ordinateur | oui |
 
 
 ### Équipements sonores
@@ -108,4 +109,22 @@ graph LR
 
 | Nom | Quantité | Prix 
 | :------------------- | :----------: |----------: |
-| Projecteur | 1 | ---|
+| Projecteur Epsilon| 1 | ---|
+| Fausse chandelle | 5 | ---|
+| Table | 1 | ---|
+| Nappe de Table | 1 | ---|
+| Kinect | 1 | ---|
+| Haut-Parleur | 2 | ---|
+| BC-204 (contrôleur arnet vers SPI/DMX) | 1 | ---|
+| Barre lumière DEL | 2 | ---|
+| Extendeur | 1 | ---|
+| Carte de son | 1 | ---|
+| Câble Ethernet| x | ---|
+| Câble d'alimentation| x | ---|
+| Câble XLR| x | ---|
+| Câble TLS| x | ---|
+| Câble Display Port| x | ---|
+| Câble connecteur SPI| x | ---|
+| Câble rallonge (multi prises)| x | ---|
+
+### Sous Total
