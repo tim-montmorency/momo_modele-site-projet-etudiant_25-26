@@ -54,7 +54,7 @@ graph LR
 | :------------------- | :----------: | :----------: |----------: |
 | Ordinateur | 1 | Poste source / Traitement du fonction de l'installation | oui |
 | Câble Ethernet| 1 | Connecter l'ordinateur à l'ethernet | oui |
-| Câble rallonge | à voir | Aide à l'allimentation des objets techniques | oui |
+| Câble rallonge | 4 | Aide à l'allimentation des objets techniques | oui |
 | Fausse chandelle | 5 | Objets interactif qui manipulent l'installation | non |
 | Table | 1 | Support les chandelles interactives | non |
 | Nappe pour table | 1 | Décoration pour que la table soit cohérent avec l'ambiance | non |
