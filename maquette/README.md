@@ -99,8 +99,13 @@ graph LR
 
 ## Synoptique
 
+![Synoptique](synoptique.png)
+
 ## Plan d'implantation
 
+![Plan d’implantation – Vue 1](plan_implantation_vue1.drawio.png)
+![Plan d’implantation – Vue 2](plan_implantation_vue2.drawio.png)
+![Plan d’implantation – Vue 3](plan_implantation_vue3.drawio.png)
 ### 2D
 
 ### 3D
