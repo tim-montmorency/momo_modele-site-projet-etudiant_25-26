@@ -128,7 +128,7 @@ graph LR
 | Nappe de Table noire | 1 | 17,20 $ | 17,20 $ 
 | Kinect | 1 | 31,00 $ | 31,00 $ 
 | Haut-Parleur | 2 | ---|
-| BC-204 (contrôleur arnet vers SPI/DMX) | 1 | 
+| BC-204 (contrôleur arnet vers SPI/DMX) | 1 | 1 033,39 $| 1 033,39 $|
 | Barre lumière DEL | 2 | ---|
 | Extendeurs HDMI Cat6 | 1 | 59,99 $ | 59,99 $ 
 | Carte de son | 1 | ---|
