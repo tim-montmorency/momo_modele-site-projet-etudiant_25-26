@@ -99,7 +99,7 @@ graph LR
 
 ## Synoptique
 
-![Synoptique](synoptique.png)
+![Synoptique](synoptique_2.png)
 
 ## Plan d'implantation
 
