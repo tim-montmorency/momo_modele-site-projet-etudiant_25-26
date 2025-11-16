@@ -62,14 +62,14 @@ graph LR
 ### Équipements visuels
 | Nom d'équipement| Quantité | Fonction | Offert par le Programme | 
 | :------------------- | :----------: | :----------: |----------: |
-| Projecteur Epsilon | 1 | Projeter le visuel sur le mur | oui |
+| Projecteur Epson | 1 | Projeter le visuel sur le mur | oui |
 | Câble d'alimentation| 1 | Alimenter le projecteur | oui |
-| Extendeur (receiver/sender) | 1 | Étendre la connection du projecteur et l'ordinateur | oui |
+| Extendeurs HDMI Cat6  | 1 | Étendre la connection du projecteur et l'ordinateur | oui |
 | Câble Ethernet| 3 | Connecter le projecteur et les extendeurs | oui |
 | Barre lumière DEL (LED Pixel Bar)| 2 | Projeter de la lumière d'ambiance | oui |
 | BC-204 (contrôleur arnet vers SPI/DMX) | 1 | Connecter les lumières DEL à l'ordinateur | oui |
 | Câble connecteur SPI extension (3 pin) | 3 | Connecter les lumières DEL entre eux et le controleur arnet | oui |
-| Câble Display Port | 2 | Connecter le contrôleur vers l'ordinateur  et l'ordinateur vers le extendeur| oui |
+| Câble Display Port | 2 | Connecter le contrôleur vers l'ordinateur et l'ordinateur vers le extendeur| oui |
 | Kinect | 1 | Capturer le mouvement de l'interacteur avec la chandelle et envoyer les donnés à l'ordinateur | oui |
 
 
@@ -120,22 +120,23 @@ graph LR
 
 ## Budget
 
-| Nom | Quantité | Prix 
-| :------------------- | :----------: |----------: |
-| Projecteur Epsilon| 1 | ---|
-| Fausse chandelle | 5 | ---|
-| Table | 1 | ---|
-| Nappe de Table | 1 | ---|
-| Kinect | 1 | ---|
+| Nom | Quantité | Prix unitaire | Coût total 
+| :------------------- | :----------: | :----------:  |----------: |
+| Projecteur Epson PowerLite 990U| 1 | 1 155,99$| 1 155,99 $
+| Fausse chandelle | 5 | ---| 
+| Table | 1 | 94,00 $ | 94,00 $ 
+| Nappe de Table noire | 1 | 17,20 $ | 17,20 $ 
+| Kinect | 1 | 31,00 $ | 31,00 $ 
 | Haut-Parleur | 2 | ---|
-| BC-204 (contrôleur arnet vers SPI/DMX) | 1 | ---|
+| BC-204 (contrôleur arnet vers SPI/DMX) | 1 | 
 | Barre lumière DEL | 2 | ---|
-| Extendeur | 1 | ---|
+| Extendeurs HDMI Cat6 | 1 | 59,99 $ | 59,99 $ 
 | Carte de son | 1 | ---|
 | Câble Ethernet| x | ---|
-| Câble d'alimentation| x | ---|
-| Câble XLR| x | ---|
-| Câble TLS| x | ---|
+| Câble Display Port / HDMI | x | ---|
+| Câble d'alimentation| x | 15,00 $| x  
+| Câble XLR| 2 | 19,99 $ |  39,98 $ 
+| Câble TLS| 2 | 16,99 $ | 33,98 $ 
 | Câble Display Port| x | ---|
 | Câble connecteur SPI| x | ---|
 | Câble rallonge (multi prises)| x | ---|
