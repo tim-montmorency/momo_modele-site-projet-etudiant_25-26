@@ -112,6 +112,12 @@ graph LR
 
 ### 3D
 
+![Simulation – Vue 1](simulation_1.jpg)
+![Simulation – Vue 2](simulation_2.jpg)
+![Simulation – Vue 3](simulation_3.jpg)
+![Simulation – Vue 4](simulation_4.jpg)
+
+
 ## Budget
 
 | Nom | Quantité | Prix 
