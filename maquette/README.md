@@ -18,7 +18,7 @@ https://tim-montmorency.com/582523-gestion/#/contenus/3_planification/
 | :------------------- | :----------: | :----------: | :----------: |----------: |
 | Bouger de chandelle  | L’interacteur déplace la chandelle qui illumine devant le projecteur | La flamme suit la chandelle à la même position (x, y) | Lorsque la chandelle est déplacé, un bruit de vent mélodieux se fait entendre | L'installation s'incroniser la position (x,y) de la flamme a celle de la chandelle |
 | Agiter chandelle  | La chandelle faible a etais secouer 10 fois | La flamme s’agrandit, devient forte et éclaire dans un certain rayon, ce qui peut faire apparaître une ombre se cachant dans le fond noir, avant que l’ombre ne se dissous | Un sons de feu qui s'intensifit est activer | Activation de l'animation sur l'ombre et de la position |
-| Entrer | Cinq forte flamme sont detecter | Tout l’environnement dans le projecteur est illuminé, les deux LEDs brillent couleur feu | Musique composer de toute les notes qui etais activer au debut  |  Fin de cycle – passe à la scène 3 |
+| Detecter flammes | Cinq forte flamme sont detecter | Tout l’environnement dans le projecteur est illuminé, les deux LEDs brillent couleur feu | Musique composer de toute les notes qui etais activer au debut  |  Fin de cycle – passe à la scène 3 |
 
 #### Scène 3 :
 
@@ -54,7 +54,8 @@ graph LR
 | :------------------- | :----------: | :----------: |----------: |
 | Ordinateur | 1 | Poste source / Traitement du fonction de l'installation | oui |
 | Câble Ethernet| 1 | Connecter l'ordinateur à l'ethernet | oui |
-| Câble rallonge | 4 | Aide à l'allimentation des objets techniques | oui |
+| Câble d'alimentation| 1 | Alimenter l'ordinateur | oui |
+| Câble rallonge (prises multiples) | 4 | Aide à l'allimentation des objets techniques | oui |
 | Fausse chandelle | 5 | Objets interactif qui manipulent l'installation | non |
 | Table | 1 | Support les chandelles interactives | non |
 | Nappe pour table | 1 | Décoration pour que la table soit cohérent avec l'ambiance | non |
@@ -66,7 +67,7 @@ graph LR
 | Câble d'alimentation| 1 | Alimenter le projecteur | oui |
 | Extendeurs HDMI Cat6  | 1 | Étendre la connection du projecteur et l'ordinateur | oui |
 | Câble Ethernet| 3 | Connecter le projecteur et les extendeurs | oui |
-| Barre lumière DEL (LED Pixel Bar)| 2 | Projeter de la lumière d'ambiance | oui |
+| Barre lumière DEL (LED Pixel Bar) | 2 | Projeter de la lumière d'ambiance | oui |
 | BC-204 (contrôleur arnet vers SPI/DMX) | 1 | Connecter les lumières DEL à l'ordinateur | oui |
 | Câble connecteur SPI extension (3 pin) | 3 | Connecter les lumières DEL entre eux et le controleur arnet | oui |
 | Câble Display Port | 2 | Connecter le contrôleur vers l'ordinateur et l'ordinateur vers le extendeur| oui |
@@ -77,10 +78,10 @@ graph LR
 | Nom d'équipement| Quantité | Fonction | Offert par le Programme | 
 | :------------------- | :----------: | :----------: |----------: |
 | Haut-parleur| 2 | Projeter les effets sonores | oui |
-| Câble XLR| 2 | Connecter les hauts-parleur au carte de son | oui |
-| Câble TLS| 2 | Connecter les hauts-parleur au carte de son | oui |
-| Carte de son| 1 | Manipule les effets sonores par l'ordinateur | oui |
-| Câble d'alimentation| 2 | Alimenter les hauts-parleur | oui |
+| Câble XLR | 2 | Connecter les hauts-parleur au carte de son | oui |
+| Câble TLS | 2 | Connecter les hauts-parleur au carte de son | oui |
+| Carte de son | 1 | Manipule les effets sonores par l'ordinateur | oui |
+| Câble d'alimentation | 2 | Alimenter les hauts-parleur | oui |
 
 
 ## Liste de logiciels
@@ -123,22 +124,20 @@ graph LR
 | Nom | Quantité | Prix unitaire | Coût total 
 | :------------------- | :----------: | :----------:  |----------: |
 | Projecteur Epson PowerLite 990U| 1 | 1 155,99$| 1 155,99 $
-| Fausse chandelle | 5 | ---| 
+| Fausse chandelle | 5 | 20,00 $ | 60,00 $ | 
 | Table | 1 | 94,00 $ | 94,00 $ 
 | Nappe de Table noire | 1 | 17,20 $ | 17,20 $ 
 | Kinect | 1 | 31,00 $ | 31,00 $ 
-| Haut-Parleur | 2 | ---|
+| Haut-Parleur | 2 | ---| ---|
 | BC-204 (contrôleur arnet vers SPI/DMX) | 1 | 1 033,39 $| 1 033,39 $|
-| Barre lumière DEL | 2 | ---|
+| Barre lumière DEL (LED Pixel Bar) | 2 | 34.58 $ | 69.16 $ |
 | Extendeurs HDMI Cat6 | 1 | 59,99 $ | 59,99 $ 
-| Carte de son | 1 | ---|
-| Câble Ethernet| x | ---|
-| Câble Display Port / HDMI | x | ---|
-| Câble d'alimentation| x | 15,00 $| x  
+| Carte de son | 1 | 296 $ | 296 $ |
+| Câble Ethernet| 4 | 6,00 $ |  24 $ |
+| Câble Display Port / HDMI | 3 | 10,00 $| 30,00 $|
+| Câble d'alimentation| 4 | 15,00 $| 60,00 $ 
 | Câble XLR| 2 | 19,99 $ |  39,98 $ 
 | Câble TLS| 2 | 16,99 $ | 33,98 $ 
-| Câble Display Port| x | ---|
-| Câble connecteur SPI| x | ---|
-| Câble rallonge (multi prises)| x | ---|
-
-### Sous Total
+| Câble connecteur SPI 3 pin| 3 | 6,00 $| 18,00 $|
+| Câble rallonge (prises multiples)| 4 | 16,00 $ | 64,00 $|
+| Résultat Total |  |  | 3 072 $|
