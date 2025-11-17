@@ -140,4 +140,5 @@ graph LR
 | Câble TLS| 2 | 16,99 $ | 33,98 $ 
 | Câble connecteur SPI 3 pin| 3 | 6,00 $| 18,00 $|
 | Câble rallonge (prises multiples)| 4 | 16,00 $ | 64,00 $|
-| Résultat Total |  |  | 3 072 $|
+| Logiciel Maya |  | 350$/mois | 700 $ (2 mois)|
+| Résultat Total |  |  | 3 772 $|
