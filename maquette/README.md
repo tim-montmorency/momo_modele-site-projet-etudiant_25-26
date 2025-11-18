@@ -142,3 +142,6 @@ graph LR
 | Câble rallonge (prises multiples)| 4 | 16,00 $ | 64,00 $|
 | Logiciel Maya |  | 350$/mois | 700 $ (2 mois)|
 | Résultat Total |  |  | 3 772 $|
+
+
+### Résultat Total : 3 772 $
