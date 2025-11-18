@@ -58,7 +58,7 @@ graph LR
 | Câble rallonge (prises multiples) | 4 | Aide à l'allimentation des objets techniques | oui |
 | Fausse chandelle | 5 | Objets interactif qui manipulent l'installation | non |
 | Table | 1 | Support les chandelles interactives | non |
-| Nappe pour table | 1 | Décoration pour que la table soit cohérent avec l'ambiance | non |
+| Nappe noire pour table | 1 | Décoration pour que la table soit cohérent avec l'ambiance | non |
 
 ### Équipements visuels
 | Nom d'équipement| Quantité | Fonction | Offert par le Programme | 
