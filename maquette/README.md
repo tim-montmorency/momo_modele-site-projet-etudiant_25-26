@@ -77,11 +77,12 @@ graph LR
 ### Équipements sonores
 | Nom d'équipement| Quantité | Fonction | Offert par le Programme | 
 | :------------------- | :----------: | :----------: |----------: |
-| Haut-parleur| 2 | Projeter les effets sonores | oui |
-| Câble XLR | 2 | Connecter les hauts-parleur au carte de son | oui |
-| Câble TLS | 2 | Connecter les hauts-parleur au carte de son | oui |
+| Haut-parleur Genelec| 2 | Projeter les effets sonores | oui |
+| Trépied Manfrotto | 2 | Soutenir les haut-parleurs | oui |
+| Câble XLR | 2 | Connecter les haut-parleurs au carte de son | oui |
+| Câble TLS | 2 | Connecter les haut-parleurs au carte de son | oui |
 | Carte de son | 1 | Manipule les effets sonores par l'ordinateur | oui |
-| Câble d'alimentation | 2 | Alimenter les hauts-parleur | oui |
+| Câble d'alimentation | 2 | Alimenter les haut-parleurs | oui |
 
 
 ## Liste de logiciels
@@ -128,7 +129,8 @@ graph LR
 | Table | 1 | 94,00 $ | 94,00 $ 
 | Nappe de Table noire | 1 | 17,20 $ | 17,20 $ 
 | Kinect | 1 | 31,00 $ | 31,00 $ 
-| Haut-Parleur | 2 | ---| ---|
+| Haut-Parleur Genelec| 2 | 499 $ | 998 $|
+| Trépied Manfrotto | 2 | 127 | 254 $ |
 | BC-204 (contrôleur arnet vers SPI/DMX) | 1 | 1 033,39 $| 1 033,39 $|
 | Barre lumière DEL (LED Pixel Bar) | 2 | 34.58 $ | 69.16 $ |
 | Extendeurs HDMI Cat6 | 1 | 59,99 $ | 59,99 $ 
@@ -141,7 +143,7 @@ graph LR
 | Câble connecteur SPI 3 pin| 3 | 6,00 $| 18,00 $|
 | Câble rallonge (prises multiples)| 4 | 16,00 $ | 64,00 $|
 | Logiciel Maya |  | 350$/mois | 700 $ (2 mois)|
-| Résultat Total |  |  | 3 772 $|
+| Résultat Total |  |  | 5 024 $|
 
 
-### Résultat Total : 3 772 $
+### Résultat Total : 5 024 $
