@@ -2,5 +2,5 @@
 * [Équipe](/equipe/)
 * [Concept](/concept/)
 * [Maquette](/maquette/)
-* Démo (à venir)
+* [Démo](/demo/)
 * Réalisation (à venir)
