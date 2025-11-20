@@ -120,25 +120,9 @@ graph LR
 
 | Nom                                    | Quantité | Prix unitaire |     Coût total |
 | :------------------------------------- | :------: | :-----------: | -------------: |
-| Projecteur Epson PowerLite 990U        |    1     |   1 155,99$   |     1 155,99 $ |
 | Fausse chandelle                       |    5     |    20,00 $    |        60,00 $ |
-| Table                                  |    1     |    94,00 $    |        94,00 $ |
-| Nappe de Table noire                   |    1     |    17,20 $    |        17,20 $ |
+| Nappe de Table noire                   |    1     |    17,00 $    |        17,00 $ |
 | Kinect                                 |    1     |    31,00 $    |        31,00 $ |
-| Haut-Parleur Genelec                   |    2     |     499 $     |          998 $ |
-| Trépied Manfrotto                      |    2     |     127 $     |          254 $ |
-| BC-204 (contrôleur arnet vers SPI/DMX) |    1     |  1 033,39 $   |     1 033,39 $ |
-| Barre lumière DEL (LED Pixel Bar)      |    2     |    34.58 $    |        69.16 $ |
-| Extendeurs HDMI Cat6                   |    1     |    59,99 $    |        59,99 $ |
-| Carte de son                           |    1     |     296 $     |          296 $ |
-| Câble Ethernet                         |    4     |    6,00 $     |           24 $ |
-| Câble Display Port / HDMI              |    3     |    10,00 $    |        30,00 $ |
-| Câble d'alimentation                   |    4     |    15,00 $    |        60,00 $ |
-| Câble XLR                              |    2     |    19,99 $    |        39,98 $ |
-| Câble TLS                              |    2     |    16,99 $    |        33,98 $ |
-| Câble connecteur SPI 3 pin             |    3     |    6,00 $     |        18,00 $ |
-| Câble rallonge (prises multiples)      |    4     |    16,00 $    |        64,00 $ |
-| Logiciel Maya                          |          |   350$/mois   | 700 $ (2 mois) |
-| Résultat Total                         |          |               |        5 024 $ |
+| Résultat Total                         |          |               |        108 $ |
 
-### Résultat Total : 5 024 $
+### Résultat Total : 108 $
