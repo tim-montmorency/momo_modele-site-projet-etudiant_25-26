@@ -91,7 +91,7 @@ graph LR
 | Maya               |                       Création environnement, ombres et flammes                       |        350$/mois         |                     oui |
 | Reaper             |                              Création des effets sonores                              |          0,00$           |                     oui |
 | Surge XT           |                             Création de l'ambiance sonore                             |          0,00$           |                     oui |
-| HyperHRD           |                             Manipulation des lumières DEL                             |          0,00$           |                     oui |
+| HyperHDR           |                             Manipulation des lumières DEL                             |          0,00$           |                     oui |
 | Visuel Studio Code |                            Programmation de l'intéraction                             |          0,00$           |                     oui |
 | Pure Data          | Communication du programmation de l'interaction des chandelles vers le visuel virtuel |          0,00$           |                     oui |
 | Unity              |              Déplacement des flammes et les ombres dans l'espace virtuel              | 0,00$ (version gratuite) |                     oui |
