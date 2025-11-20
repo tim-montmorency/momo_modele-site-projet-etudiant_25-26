@@ -32,7 +32,7 @@ Qu'est-ce que fait l'interacteur?
 un résumé du parcours de l'interacteur du début à la fin de son expérience - qu'est-ce qu'il fait, qu'est-ce qu'il manipule, etc
 -->
 
-L’interacteur entre dans la pièce. Une flamme de bougie s’allume sur le mur, accompagnée d’une note musicale synthétique. Plus il y a de visiteurs, plus il y a des flammes et de variations sonores. Les visiteurs sont invités à prendre une chandelle (objet physique) posée sur une table. La flamme projetée suit la position de l’objet. Les interacteurs ont le pouvoir de modifier l’intensité de la flamme ainsi que celle de la note musicale qui l’accompagne. Dès que l’interacteur quitte la pièce, sa flamme s’éteint et sa note se dissout.
+L’interacteur entre dans la pièce. Une flamme de chandelle s’allume sur un mur de la même couleur que la chandelle, accompagnée d’une note musicale synthétique. Plus il y a de visiteurs, plus il y a des flammes et de variations sonores. Les visiteurs sont invités à prendre une chandelle (objet physique) posée sur une table. La flamme projetée suit la position de l’objet. Les interacteurs ont le pouvoir, en secouant la chandelle, de modifier l’intensité de la flamme ainsi que celle de la note musicale qui l’accompagne. Dès que l’interacteur quitte la pièce, sa flamme s’éteint et sa note se dissout.
 
 ### L'espace
 
@@ -40,12 +40,11 @@ L’interacteur entre dans la pièce. Une flamme de bougie s’allume sur le mur
 description de l'espace réel et virtuel du projet et comment l'espace réel est transposé, transorté ou prolongé dans le virtuel et inversement
 -->
 
-Notre installation est située dans le grand studio de notre programme Techniques. Le projet partagera l’espace avec d’autres installations voisines. Nous réserverons donc une zone du studio suffisamment grande pour accueillir de 5 personnes à la fois, afin qu’elles puissent participer à l’expérience. Donc, environ 3 mètres de longueur 3,3 mètres de largeurs puis 2.5 mètres de hauteurs.
+Notre installation est située dans le grand studio de notre programme Techniques. Le projet partagera l’espace avec d’autres installations voisines. Nous réserverons donc une zone du studio suffisamment grande pour accueillir jusqu’à 5 personnes à la fois, afin qu’elles puissent participer à l’expérience. Donc, environ 3 mètres de longueur 3 mètres de largeurs puis 2.3 mètres de hauteurs.
 
-L’espace réel est majoritairement liminal, afin d’inviter les interacteurs à se déplacer dans la pièce. Une petite table sera disposée avec de fausses chandelles (objets interactifs) destinées à être utiliser pour l’expérience.
+L’espace réel est encadré de deux LED, afin d’inviter les interacteurs à se déplacer dans les limites de l’installation. Une petite table sera disposée avec de fausses chandelles (objets interactifs) destinées à être utiliser pour l’expérience.
 
-L'espace virtuel (projeté) est couverte des ombres représentés par des formes abstraits / étrangées.
-Le projection des flammes de chandelles qui reflètent la présence et la position (à la hauteur) de l'objet que les interacteurs tiennent dans la main.
+L’espace virtuel (projeté) est noir, couvert d’ombres représentées par des formes abstraites et étranges, que l’on ne peut voir qu’en illuminant la pièce avec les flammes. La position des flammes de chandelles dans la projection correspond aux mêmes coordonnées (x, y) que celles de la chandelle tenue par l’interacteur.
 
 ### La progression
 
@@ -67,9 +66,9 @@ Un collectif désigne l'ensemble de personnes ou d'entités qui s'unissent de ma
  Ce groupe, souvent considéré comme une entité à vocation communautaire, fonctionne sous le pilotage de ses membres et repose sur une volonté partagée de développer des solidarités.
 -->
 
-Les ombres sont des dangers qui persistent tout au long de l’expérience. Elles hantent et intimident lorsqu’une personne tente de les éloigner. Ainsi, les participants sont encouragés à se rassembler et à utiliser les chandelles (objets) pour chasser ensemble ces forces perturbatrices.
+Les ombres sont des dangers qui persistent dans l’obscurité tout au long de l’expérience. Elles hantent et intimident lorsqu’une personne tente de les éloigner. Ainsi, les participants sont encouragés à se rassembler et à utiliser les chandelles (objets) pour chasser ensemble ces forces perturbatrices.
 
-Bref, la présence des ombres encourage les interacteurs de se réuinir pour les chasser à l'aide des chandelles physiques.
+Bref, la présence des ombres encourage les interacteurs a se réuinir pour les chasser à l'aide des chandelles physiques.
 
 ### L'aspect social
 
