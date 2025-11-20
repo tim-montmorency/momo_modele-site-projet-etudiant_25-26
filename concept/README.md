@@ -98,7 +98,7 @@ Nous avons choisi ce sujet parce que nous avons remarqué autour de nous que cer
 
 ![Mouvement de bougie Par Nothing Ahead](bougie_mouvement.png)
 
-![Bougie ambiance / lueur Par  Fandy Much](bougie_ambiance.png)
+![Ombre Par TyliJura dans pixabay](ombre.jpg)
 
 ![Bougie lueur montre l'ombre dans le noir Par Merve Baydar](bougie_lueur_ombre.png)
 

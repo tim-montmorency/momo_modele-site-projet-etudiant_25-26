@@ -54,7 +54,7 @@ graph LR
 | Câble d'alimentation              |    1     |                   Alimenter l'ordinateur                   |                     oui |
 | Câble rallonge (prises multiples) |    4     |        Aide à l'allimentation des objets techniques        |                     oui |
 | Fausse chandelle                  |    5     |      Objets interactif qui manipulent l'installation       |                     non |
-| Table                             |    1     |            Support les chandelles interactives             |                     non |
+| Table                             |    1     |            Support les chandelles interactives             |                     oui |
 | Nappe noire pour table            |    1     | Décoration pour que la table soit cohérent avec l'ambiance |                     non |
 
 ### Équipements visuels
