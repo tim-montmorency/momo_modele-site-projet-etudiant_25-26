@@ -1,6 +1,6 @@
 # Matis Ghariani
 
-![]( matis.jpg)
+![]( matis.JPG)
 
 
  <!--
