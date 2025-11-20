@@ -52,9 +52,10 @@ L’espace virtuel (projeté) est noir, couvert d’ombres représentées par de
 
 Les interacteurs ont le pouvoir de manipuler le visuel (projeté sur le mur) à l'aide des "chandelles" (objets physiques) pour enrichir leur expérience.
 
-En ce qui concerne la progression, l’interacteur est invité à prendre une chandelle (l’objet) sur la table. La flamme s'allume sur le mur suit la position de l’objet physique et révèle la présence de plusieurs ombres représentant des forces négatives (oppresseurs). Les visiteurs peuvent agiter la chandelle pour modifier l’apparence de leur flamme ainsi que sa note musicale. Ces modifications influencent à la fois l’intensité de la lumière et la hauteur (le pitch) des sons émis par ces flammes. En agitant l'objet, l'interacteur perçoit que les ombres se déplace pour éviter la flamme de la chandelle. 
+En ce qui concerne la progression, l’interacteur est invité à prendre une chandelle (l’objet) sur la table. La flamme s'allume sur le mur suit la position de l’objet physique et révèle la présence de plusieurs ombres représentant des forces négatives (oppresseurs). Les visiteurs peuvent agiter la chandelle pour modifier l’apparence de leur flamme ainsi que sa note musicale. Ces modifications influencent à la fois l’intensité de la lumière et la hauteur (le pitch) des sons émis par ces flammes. En agitant l'objet, l'interacteur perçoit que les ombres se déplace pour éviter la flamme de la chandelle.
 
 Un maximum de 5 visiteurs peuvent participer simultanément à l’expérience : 5 flammes apparaissent alors sur le mur. Ensemble, ces flammes unissent leurs forces pour chasser les ombres hors du mur. Quand les ombres ont complètement disparu, une animation lumineuse aux teintes chaudes se déclenche, accompagnée d’une musique. Après que les interacteurs déposent les chandelles, un fondu (« fade out ») des lumières de la pièce s’amorce, permettant de revenir à l’état initial dans (l’obscurité) afin que les ombres reprennent le contrôle du mur.
+
 ### L'aspect collectif
 
 <!--
@@ -83,7 +84,7 @@ Le terme « social » désigne ce qui concerne la vie en société, c’est-à-d
 
 La peur du noir, ou nyctophobie, est assez fréquente dans de nombreuses sociétés, même si elle n’est pas universelle. Dans notre culture, l’obscurité était souvent associée au danger, aux monstres et aux mauvais esprits, ce qui renforçait la crainte du noir. Aujourd’hui, cette peur persiste chez certaines personnes, car l’absence de lumière crée un sentiment d’insécurité et d’incertain.
 
-Nous avons choisi ce sujet parce que nous avons remarqué autour de nous que certaines personnes ont peur du noir tandis que d’autres non. En affrontant cette peur ensemble, nous créons des liens à travers l’expérience partagée : nous communiquons, coopérons et nous soutenons mutuellement. Cela montre que notre vrai pouvoir réside dans le rassemblement, et que la peur peut se transformer en une occasion de renforcer nos liens. 
+Nous avons choisi ce sujet parce que nous avons remarqué autour de nous que certaines personnes ont peur du noir tandis que d’autres non. En affrontant cette peur ensemble, nous créons des liens à travers l’expérience partagée : nous communiquons, coopérons et nous soutenons mutuellement. Cela montre que notre vrai pouvoir réside dans le rassemblement, et que la peur peut se transformer en une occasion de renforcer nos liens.
 
 ## Inspirations
 
@@ -161,11 +162,11 @@ Le scénarimage doit inclure des annotations ou des visuels montrant les répons
 
 ![Scénarimage - Image 2](scenarimage_02.png)
 
-Lorsqu’un interacteur entre dans la zone, une flamme le représentant s’allume sur le mur et de la musique sort des haut-parleurs. La lumière de la flamme révèle également les esprits présents à la projection. Ensuite, lorsque l’interacteur prend une bougie sur la table, celle-ci s’allume.
+Lorsqu’un visiteur entre dans la zone, une flamme symbolisant sa présence s’illumine sur le mur, et l’une des chandelles s’allume. Au même moment, une ambiance sonore sort des haut-parleurs. La lumière de la flamme révèle alors les esprits qui habitent la projection.
 
 ![Scénarimage - Image 3](scenarimage_03.png)
 
-Lorsque l’interacteur agite sa bougie, la flamme de la projection change, grossit et se modifie.
+Lorsque l’interacteur agite vivement sa bougie, la flamme de la projection change, grossit et se modifie.
 
 ![Scénarimage - Image 4](scenarimage_04.png)
 
