@@ -92,7 +92,11 @@ Nous avons choisi ce sujet parce que nous avons remarqué autour de nous que cer
 
 <!-- Inclure le moodboard avec référenes pour chacune des sources-->
 
-![Palette de couleur](palette_couleur.png)
+
+![Palette de couleur - Ambiance général](palette_couleur.png)
+<br/>
+
+![Palette de couleur des flammes / chandelles pour différencier les interacteurs](palette_couleur_interacteur.png)
 
 #### L'ambiance de la salle et l'espace virtuel
 
