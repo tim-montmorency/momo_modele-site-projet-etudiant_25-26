@@ -87,14 +87,14 @@ graph LR
 | Nom de logiciel    |                                       Fonction                                        |           Prix           | Offert par le Programme |
 | :----------------- | :-----------------------------------------------------------------------------------: | :----------------------: | ----------------------: |
 | OBS                |                   Projection du visuel et Activation des barres DEL                   |          0,00$           |                     oui |
-| TouchDesigner      |                     Traitement du visuel et sonore en temps réel                      | 0,00$ (version gratuite) |                     oui |
-| Maya               |                       Création environnement, ombres et flammes                       |        350$/mois         |                     oui |
+| TouchDesigner      |  Traitement du visuel (simulation des flammes et des ombres) et sonore en temps réel  | 0,00$ (version gratuite) |                     oui |
+| Photoshop          |                           Création environnement et flammes                           |        350$/mois         |                     oui |
+| After Effects      |                           Création du mouvement des flammes                           |        350$/mois         |                     oui |
 | Reaper             |                              Création des effets sonores                              |          0,00$           |                     oui |
 | Surge XT           |                             Création de l'ambiance sonore                             |          0,00$           |                     oui |
 | HyperHDR           |                             Manipulation des lumières DEL                             |          0,00$           |                     oui |
 | Visuel Studio Code |                            Programmation de l'interaction                             |          0,00$           |                     oui |
 | Pure Data          | Communication du programmation de l'interaction des chandelles vers le visuel virtuel |          0,00$           |                     oui |
-| Unity              |              Déplacement des flammes et les ombres dans l'espace virtuel              | 0,00$ (version gratuite) |                     oui |
 
 ## Synoptique
 
@@ -118,11 +118,11 @@ graph LR
 
 ## Budget
 
-| Nom                                    | Quantité | Prix unitaire |     Coût total |
-| :------------------------------------- | :------: | :-----------: | -------------: |
-| Fausse chandelle                       |    5     |    20,00 $    |        60,00 $ |
-| Nappe de Table noire                   |    1     |    17,00 $    |        17,00 $ |
-| Kinect                                 |    1     |    31,00 $    |        31,00 $ |
-| Résultat Total                         |          |               |        108 $ |
+| Nom                  | Quantité | Prix unitaire | Coût total |
+| :------------------- | :------: | :-----------: | ---------: |
+| Fausse chandelle     |    5     |    20,00 $    |    60,00 $ |
+| Nappe de Table noire |    1     |    17,00 $    |    17,00 $ |
+| Kinect               |    1     |    31,00 $    |    31,00 $ |
+| Résultat Total       |          |               |      108 $ |
 
 ### Résultat Total : 108 $

@@ -32,7 +32,7 @@ Qu'est-ce que fait l'interacteur?
 un résumé du parcours de l'interacteur du début à la fin de son expérience - qu'est-ce qu'il fait, qu'est-ce qu'il manipule, etc
 -->
 
-L’interacteur entre dans la pièce. Une flamme de chandelle s’allume sur un mur de la même couleur que la chandelle, accompagnée d’une note musicale synthétique. Plus il y a de visiteurs, plus il y a des flammes et de variations sonores. Les visiteurs sont invités à prendre une chandelle (objet physique) posée sur une table. La flamme projetée suit la position de l’objet. Les interacteurs ont le pouvoir, en secouant la chandelle, de modifier l’intensité de la flamme ainsi que celle de la note musicale qui l’accompagne. Dès que l’interacteur quitte la pièce, sa flamme s’éteint et sa note se dissout.
+L’interacteur entre dans la pièce. Une flamme de chandelle s’allume sur un mur de la même couleur que la chandelle, accompagnée d’une note musicale synthétique. Des ombres (forme abstrait) évitent la lumière de la flamme. Plus il y a de visiteurs, plus il y a des flammes et de variations sonores. Les visiteurs sont invités à prendre une chandelle (objet physique) posée sur une table. La flamme projetée suit la position de l’objet. Les interacteurs ont le pouvoir, en secouant la chandelle, de modifier l’intensité de la flamme ainsi que celle de la note musicale qui l’accompagne. Dès que l’interacteur quitte la pièce, sa flamme s’éteint et sa note se dissout.
 
 ### L'espace
 
@@ -44,7 +44,7 @@ Notre installation est située dans le grand studio de notre programme Technique
 
 L’espace réel est encadré de deux LED, afin d’inviter les interacteurs à se déplacer dans les limites de l’installation. Une petite table sera disposée avec de fausses chandelles (objets interactifs) destinées à être utiliser pour l’expérience.
 
-L’espace virtuel (projeté) est noir, couvert d’ombres représentées par des formes abstraites et étranges, que l’on ne peut voir qu’en illuminant la pièce avec les flammes. La position des flammes de chandelles dans la projection correspond aux mêmes coordonnées (x, y) que celles de la chandelle tenue par l’interacteur.
+L’espace virtuel (projeté) est sombre avec un image d'une salle (un sous-sol) comme figure de fond, couvert d’ombres représentées par des formes abstraites qui se déplace dans cette salle, qu'on peut manipuler en illuminant la pièce avec les flammes. La position des flammes de chandelles dans la projection correspond aux mêmes coordonnées (x, y) que celles de la chandelle tenue par l’interacteur.
 
 ### La progression
 
@@ -52,7 +52,7 @@ L’espace virtuel (projeté) est noir, couvert d’ombres représentées par de
 
 Les interacteurs ont le pouvoir de manipuler le visuel (projeté sur le mur) à l'aide des "chandelles" (objets physiques) pour enrichir leur expérience.
 
-En ce qui concerne la progression, l’interacteur est invité à prendre une chandelle (l’objet) sur la table. La flamme s'allume sur le mur suit la position de l’objet physique et révèle la présence de plusieurs ombres représentant des forces négatives (oppresseurs). Les visiteurs peuvent agiter la chandelle pour modifier l’apparence de leur flamme ainsi que sa note musicale. Ces modifications influencent à la fois l’intensité de la lumière et la hauteur (le pitch) des sons émis par ces flammes. En agitant l'objet, l'interacteur perçoit que les ombres se déplace pour éviter la flamme de la chandelle.
+En ce qui concerne la progression, l’interacteur est invité à prendre une chandelle (l’objet) sur la table. La flamme s'allume sur le mur suit la position de l’objet physique. À l’aide de la flamme, la lumière émise par la chandelle repousse les ombres représentant des forces négatives (les oppresseurs) sur son chemin. Les visiteurs peuvent agiter la chandelle pour modifier l’apparence de leur flamme ainsi que sa note musicale. Ces modifications influencent à la fois l’intensité de la lumière et la hauteur (le pitch) des sons émis par ces flammes. En agitant l'objet, l'interacteur perçoit que les ombres se déplace pour éviter la flamme de la chandelle.
 
 Un maximum de 5 visiteurs peuvent participer simultanément à l’expérience : 5 flammes apparaissent alors sur le mur. Ensemble, ces flammes unissent leurs forces pour chasser les ombres hors du mur. Quand les ombres ont complètement disparu, une animation lumineuse aux teintes chaudes se déclenche, accompagnée d’une musique. Après que les interacteurs déposent les chandelles, un fondu (« fade out ») des lumières de la pièce s’amorce, permettant de revenir à l’état initial dans (l’obscurité) afin que les ombres reprennent le contrôle du mur.
 
@@ -102,7 +102,7 @@ Nous avons choisi ce sujet parce que nous avons remarqué autour de nous que cer
 
 ![Mouvement de bougie Par Nothing Ahead](bougie_mouvement.png)
 
-![Ombre Par TyliJura dans pixabay](ombre.jpg)
+![Ombre (en mouvement) Par Nur Andi Ravsanjani Gusma  dans pixabay](ombre.jpg)
 
 ![Bougie lueur montre l'ombre dans le noir Par Merve Baydar](bougie_lueur_ombre.png)
 
