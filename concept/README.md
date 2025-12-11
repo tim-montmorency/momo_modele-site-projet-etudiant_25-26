@@ -102,7 +102,9 @@ Nous avons choisi ce sujet parce que nous avons remarqué autour de nous que cer
 
 ![Mouvement de bougie Par Nothing Ahead](bougie_mouvement.png)
 
-![Ombre (en mouvement) Par Nur Andi Ravsanjani Gusma  dans pixabay](ombre.jpg)
+![Ombre (esthétique) Par Nur Andi Ravsanjani Gusma  dans pixabay](ombre.jpg)
+
+![Ombre (en mouvement) Par Anna Vatochkina dans pexels](ombre_esthetique.jpg)
 
 ![Bougie lueur montre l'ombre dans le noir Par Merve Baydar](bougie_lueur_ombre.png)
 
