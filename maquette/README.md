@@ -105,8 +105,8 @@ graph LR
 ### 2D
 
 ![Plan d’implantation – Vue 1](pi-01.png)
-![Plan d’implantation – Vue 2](pi_2.drawio.png)
-![Plan d’implantation – Vue 3](pi_3.drawio.png)
+![Plan d’implantation – Vue 2](pi-02.png)
+![Plan d’implantation – Vue 3](pi-03.png)
 ![Plan d’implantation – Vue 4](grand-studio.png)
 
 ### 3D
