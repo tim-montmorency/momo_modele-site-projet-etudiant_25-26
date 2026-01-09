@@ -1,6 +1,6 @@
 * [Accueil](/)
 * [Équipe](/equipe/)
 * [Concept](/concept/)
-* Maquette (à venir)
-* Démo (à venir)
-* Réalisation (à venir)
+* Maquette
+* Dossier de presse
+* Exposition
