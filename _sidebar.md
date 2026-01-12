@@ -1,7 +1,7 @@
 * [Accueil](/)
 * [Équipe](/equipe/)
 * [Concept](/concept/)
-* Scénario
-* Technique
-* Dossier de presse
-* Exposition
+* [Scénario](/scenario/)
+* [Technique](/technique/)
+* [Dossier de presse](/presse/)
+* [Exposition](/exposition/)

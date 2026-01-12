@@ -4,13 +4,14 @@
 
 <!-- Inclure la vidéo du PowerPoint intial -->
 
-
-<!-- Méthode 1 (vidéo sur YouTube qui peut être non listée publiquement) -->
+<!-- Intégration d’une vidéo : méthode 1 (vidéo hébergée sur YouTube, pouvant être non répertoriée publiquement)
+-->
 <!-- 
 [![Description de la vidéo](http://img.youtube.com/vi/ABWCq8j8qys/0.jpg)](http://www.youtube.com/watch?v=ABWCq8j8qys)
 -->
 
-<!-- Méthode 2 (vidéo local) -->
+<!-- Intégration d’une vidéo : méthode 2 (vidéo locale)
+ -->
 <!-- 
  ![Description de la vidéo](/media/ipsum_020.mp4)
 -->
@@ -25,15 +26,20 @@ Qu'est-ce que fait l'interacteur?
 un résumé du parcours de l'interacteur du début à la fin de son expérience - qu'est-ce qu'il fait, qu'est-ce qu'il manipule, etc
 -->
 
+### La progression
+
+<!--  sur le temps et la progression -->
+
 ### L'espace
 
 <!-- 
 description de l'espace réel et virtuel du projet et comment l'espace réel est transposé, transorté ou prolongé dans le virtuel et inversement 
 -->
 
-### La progression
+#### L'espace virtuel
 
-<!--  sur le temps et la progression -->
+#### L'espace tangible
+
 
 ### L'aspect collectif
 
@@ -59,7 +65,7 @@ Le terme « social » désigne ce qui concerne la vie en société, c’est-à-d
 
 ## Inspirations
 
-### Inspirations visuelles et sonores
+
 
 <!-- Inclure le moodboard avec référenes pour chacune des sources-->
 
@@ -79,6 +85,10 @@ Textures et matériaux
 Ambiance sonore et lumineuse
 Inspirations relatives à la scénarisation de la lumière et du son, qui seront des éléments interactifs clés dans l’expérience utilisateur.
 -->
+
+### Inspirations visuelles
+
+### Inspirations sonores
 
 [Son demonstrative.mp3](demonstrative.mp3)
 

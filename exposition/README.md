@@ -1,7 +1,6 @@
-# Titre du projet
+# Exposition
 
-<!-- Bannderole / Bande-annonce -->
-![]( https://placehold.co/600x400?text=banderole-bande-annonce)
+Cette section documente l'exposition publique du projet.
 
 <!-- Intégration d’une vidéo : méthode 1 (vidéo hébergée sur YouTube, pouvant être non répertoriée publiquement)
 -->
@@ -14,8 +13,3 @@
 <!-- 
  ![Description de la vidéo](/media/ipsum_020.mp4)
 -->
-
-## Description
-
-<!-- Présentation de ce qu'est ce site et résumé du projet en un paragraphe, toujours à jour-->
-
