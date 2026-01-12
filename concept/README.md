@@ -4,20 +4,13 @@
 
 <!-- Inclure la vidéo du PowerPoint intial -->
 
-<!-- Méthode 1 -->
-<iframe width="560" height="315"
-  src="https://www.youtube.com/embed/ABWCq8j8qys"
-  title="YouTube video"
-  frameborder="0"
-  allowfullscreen>
-</iframe>
 
-<!-- Méthode 2, plug legit -->
+<!-- Méthode 1 (vidéo sur YouTube qui peut être non listée publiquement) -->
 <!-- 
 [![Description de la vidéo](http://img.youtube.com/vi/ABWCq8j8qys/0.jpg)](http://www.youtube.com/watch?v=ABWCq8j8qys)
 -->
 
-<!-- Méthode 3 (vidéo local) -->
+<!-- Méthode 2 (vidéo local) -->
 <!-- 
  ![Description de la vidéo](/media/ipsum_020.mp4)
 -->
