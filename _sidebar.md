@@ -1,6 +1,7 @@
 * [Accueil](/)
 * [Équipe](/equipe/)
 * [Concept](/concept/)
-* Maquette
+* Scénario
+* Technique
 * Dossier de presse
 * Exposition
