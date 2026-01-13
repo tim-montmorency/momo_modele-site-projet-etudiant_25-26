@@ -22,12 +22,12 @@ Elle a pour objectif de garantir une mise en place cohérente, sécuritaire et f
 <!-- 
 Chaque composante de l’installation est détaillée ci-dessous avec :
 - une description,
-- les étapes de mise en place,
+- les étapes d'ouverture
 - des liens utiles,
 - des photos de référence.
 -->
 
-## Documentation vidéo
+## Documentation vidéo finale
 
 <!-- Intégration d’une vidéo : méthode 1 (vidéo hébergée sur YouTube, pouvant être non répertoriée publiquement)
 -->
