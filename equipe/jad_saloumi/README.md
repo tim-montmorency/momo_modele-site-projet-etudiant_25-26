@@ -12,3 +12,20 @@
     - Documentation multimédia des tâches accomplies
  -->
 
+## Semaine 1
+
+## Semaine 2
+
+## Semaine 3
+
+## Semaine 4
+
+## Semaine 5
+
+## Semaine 6
+
+## Semaine 6.5
+
+## Semaine 7
+
+## Semaine 8
