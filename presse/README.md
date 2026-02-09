@@ -46,6 +46,17 @@ Gratuit
  ![Description de la vidéo](/media/ipsum_020.mp4)
 -->
 
+<!-- 
+Exemples de bande annonces :
+- Mimics - the game you play with your face, out now on iOS & Android! - Release Trailer - YouTube - https://www.youtube.com/watch?v=o3qyNg1Ok0M
+- Projection | McLarena par Daily tous les jours - YouTube - https://www.youtube.com/watch?v=G-pbbjaNbDk
+- Daydreamer, a kinetic musical bench by Daily tous les jours - YouTube - https://www.youtube.com/watch?v=z8UtxYvP_V8
+- Multimedia installations games at Changi Airport https://vimeo.com/393714779?fl=pl&fe=sh
+- Curiosity Cove | An Immersive Nature-Inspired Playscape Powered by Interactive Media on Vimeo - https://vimeo.com/1150182624?fl=pl&fe=vl
+
+
+-->
+
 ## Images
 
 
