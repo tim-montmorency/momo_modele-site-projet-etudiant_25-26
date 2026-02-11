@@ -27,31 +27,53 @@ Le passage d’une scène à l’autre est déterminé par des déclencheurs pr�
 
 <!-- 
 Exemples de verbes actions:
-- rentrer
-- sortir
-- attendre  
-- scruter  
-- écouter  
-- renifler  
-- marcher  
-- s’approcher  
-- s’éloigner  
-- traverser  
-- contourner   
-- toucher  
-- effleurer  
-- caresser
-- presser  
-- maintenir  
-- lâcher  
-- saisir  
-- relâcher  
-- caresser  
-- tirer  
-- pousser  
-- brasser
-- tourner
-- basculer
-- scanner
-- ...
+Appuie / Presse / Maintient / Lâche / Relâche  
+Touche / Effleure / Caresse  
+Saisit / Attrape / Ramasse  
+Pousse / Tire / Brasse / Bascule / Tourne  
+Marche  
+Court  
+Roulez  
+Saute  
+Rentre  
+Sort  
+S’approche  
+S’éloigne  
+Traverse  
+Contourne  
+Déplace  
+Scrute  
+Observe  
+Écoute  
+Renifle  
+Scanne  
+Clique  
+Sélectionne  
+Active  
+Désactive  
+Ouvre  
+Ferme  
+Allume  
+Éteint  
+Charge  
+Déverrouille  
+Connecte  
+Déconnecte  
+Combine  
+Modifie  
+Attend  
+Évite / Esquive  
+Défend  
+Attaque / Combat  
+Protège  
+Sauve  
+Explore  
+Découvre  
+Dialogue  
+Construit  
+Casse / Détruit  
+Lance / Balance  
+Zoome  
+Pointe  
+Pose  
 -->
