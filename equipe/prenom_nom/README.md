@@ -89,7 +89,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Une entrée par jour sur 8 semaines (8 semaines à partir de la semaine 2).
    - Un total d'au moins 40 entrées uniques!
 - Chaque jour :
-    - Documentstion visuelle et/ou sonore du travail effectué
+    - Documentation visuelle et/ou sonore du travail effectué
     - Lien vers les billets GitHub résolus
 - Démarche rigoureuse de validation de la qualité
 - Démonstration d'autonomie.
